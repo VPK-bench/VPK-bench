@@ -1,0 +1,301 @@
+trial,exp,algorithm,noise_min,noise_max,top_k,query,recall_at_k,ndcg_at_k,enc_encrypt_us,enc_search_us,enc_total_us,note
+1,J,Rome,1.0,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,45,459,12726,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is hypertension treated?,1.0,1.0,46,454,11571,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What causes heart failure?,1.0,1.0,40,404,11275,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,Describe the symptoms of lupus,1.0,1.0,41,402,11442,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What medications treat depression?,1.0,1.0,40,434,11276,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,37,422,10876,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What are risk factors for stroke?,1.0,1.0,36,423,11420,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is asthma managed long-term?,1.0,1.0,35,360,10719,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What are signs of kidney disease?,1.0,1.0,38,400,11241,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,35,393,11975,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What causes Parkinson's disease?,1.0,1.0,39,358,11372,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,36,366,10663,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What are symptoms of anemia?,1.0,1.0,32,384,9867,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is hypothyroidism treated?,1.0,1.0,31,361,9039,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What causes chronic pain?,1.0,1.0,39,358,9558,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,Describe COPD management,1.0,1.0,38,355,9165,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What are signs of liver disease?,1.0,1.0,34,355,9540,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is epilepsy treated?,1.0,1.0,36,354,9884,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What causes osteoporosis?,1.0,1.0,34,354,9762,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,34,352,9404,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,34,377,8993,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is pneumonia diagnosed?,1.0,1.0,40,356,9852,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,34,355,9735,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,37,352,9401,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,34,354,9563,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is bipolar disorder managed?,1.0,1.0,37,378,9464,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What causes psoriasis?,1.0,1.0,37,354,11061,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,Describe sepsis treatment,1.0,1.0,38,354,9604,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,What are risk factors for cancer?,1.0,1.0,34,371,10242,Geometric encryption — ANN-compatible
+1,J,Rome,1.0,1.0,10,How is ALS diagnosed?,1.0,1.0,38,352,11490,Geometric encryption — ANN-compatible
+1,J,CkksFhe,1.0,1.0,10,What are the symptoms of type 2 diabetes?,0.0,0.0,687,3265,23452,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is hypertension treated?,0.0,0.0,580,2623,19338,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What causes heart failure?,0.0,0.0,466,2269,16568,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,Describe the symptoms of lupus,0.0,0.0,454,2063,15183,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What medications treat depression?,0.0,0.0,389,1931,14595,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How does Alzheimer's disease progress?,0.0,0.0,370,1829,15640,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What are risk factors for stroke?,0.0,0.0,374,1751,13857,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is asthma managed long-term?,0.0,0.0,346,1664,12622,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What are signs of kidney disease?,0.0,0.0,350,1741,14657,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,Describe rheumatoid arthritis treatment,0.0,0.0,331,1649,13638,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What causes Parkinson's disease?,0.0,0.0,336,1607,13584,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is multiple sclerosis diagnosed?,0.0,0.0,335,1666,14696,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What are symptoms of anemia?,0.0,0.0,325,1612,13870,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is hypothyroidism treated?,0.0,0.0,321,1578,12905,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What causes chronic pain?,0.0,0.0,311,1502,13610,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,Describe COPD management,0.0,0.0,348,1528,12724,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What are signs of liver disease?,0.0,0.0,310,1529,12815,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is epilepsy treated?,0.0,0.0,336,1502,13537,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What causes osteoporosis?,0.0,0.0,296,1494,12786,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,Describe symptoms of anxiety disorder,0.0,0.0,301,1523,12731,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What medications are used for HIV/AIDS?,0.0,0.0,333,1502,13313,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is pneumonia diagnosed?,0.1,0.0674,313,1487,12751,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What causes inflammatory bowel disease?,0.0,0.0,286,1485,12595,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,Describe treatment for chronic kidney disease,0.0,0.0,284,1488,11573,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What are symptoms of schizophrenia?,0.0,0.0,297,1484,10840,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is bipolar disorder managed?,0.0,0.0,293,1489,11073,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What causes psoriasis?,0.0,0.0,295,1509,11341,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,Describe sepsis treatment,0.0,0.0,272,1483,10922,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,What are risk factors for cancer?,0.0,0.0,304,1543,10709,True RLWE FHE — Recall≈0 expected
+1,J,CkksFhe,1.0,1.0,10,How is ALS diagnosed?,0.0,0.0,272,1515,11115,True RLWE FHE — Recall≈0 expected
+2,J,Rome,1.0,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,90,940,21652,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is hypertension treated?,1.0,1.0,64,658,16660,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What causes heart failure?,1.0,1.0,59,608,14931,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,Describe the symptoms of lupus,1.0,1.0,54,537,13618,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What medications treat depression?,1.0,1.0,50,480,13801,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,47,478,13930,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What are risk factors for stroke?,1.0,1.0,43,444,13249,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is asthma managed long-term?,1.0,1.0,44,418,12844,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What are signs of kidney disease?,1.0,1.0,47,425,12543,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,39,399,13448,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What causes Parkinson's disease?,1.0,1.0,39,399,12470,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,41,396,12722,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What are symptoms of anemia?,1.0,1.0,38,381,12714,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is hypothyroidism treated?,1.0,1.0,37,380,11624,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What causes chronic pain?,1.0,1.0,37,380,11804,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,Describe COPD management,1.0,1.0,37,381,10736,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What are signs of liver disease?,1.0,1.0,39,372,11657,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is epilepsy treated?,1.0,1.0,40,372,12450,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What causes osteoporosis?,1.0,1.0,39,381,11713,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,37,353,11756,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,39,360,10613,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is pneumonia diagnosed?,1.0,1.0,37,352,10113,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,38,383,9549,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,35,363,9557,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,37,377,10214,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is bipolar disorder managed?,1.0,1.0,39,353,10678,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What causes psoriasis?,1.0,1.0,39,350,8611,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,Describe sepsis treatment,1.0,1.0,39,351,9213,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,What are risk factors for cancer?,1.0,1.0,39,351,10965,Geometric encryption — ANN-compatible
+2,J,Rome,1.0,1.0,10,How is ALS diagnosed?,1.0,1.0,31,373,9987,Geometric encryption — ANN-compatible
+2,J,CkksFhe,1.0,1.0,10,What are the symptoms of type 2 diabetes?,0.0,0.0,631,2816,20862,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is hypertension treated?,0.0,0.0,516,2465,18067,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What causes heart failure?,0.0,0.0,453,2067,15015,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,Describe the symptoms of lupus,0.0,0.0,409,1938,15111,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What medications treat depression?,0.0,0.0,371,1750,14883,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How does Alzheimer's disease progress?,0.0,0.0,382,1704,14693,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What are risk factors for stroke?,0.0,0.0,333,1726,14759,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is asthma managed long-term?,0.0,0.0,339,1672,14440,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What are signs of kidney disease?,0.0,0.0,329,1637,14179,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,Describe rheumatoid arthritis treatment,0.1,0.0738,328,1611,13869,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What causes Parkinson's disease?,0.0,0.0,355,1605,13501,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is multiple sclerosis diagnosed?,0.0,0.0,316,1530,13506,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What are symptoms of anemia?,0.0,0.0,348,1528,13498,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is hypothyroidism treated?,0.0,0.0,308,1543,11128,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What causes chronic pain?,0.0,0.0,342,1518,13082,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,Describe COPD management,0.0,0.0,332,1498,13392,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What are signs of liver disease?,0.2,0.1709,307,1512,13409,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is epilepsy treated?,0.0,0.0,276,1499,12584,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What causes osteoporosis?,0.0,0.0,280,1509,12532,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,Describe symptoms of anxiety disorder,0.0,0.0,286,1541,10903,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What medications are used for HIV/AIDS?,0.0,0.0,302,1501,10352,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is pneumonia diagnosed?,0.0,0.0,268,1494,12607,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What causes inflammatory bowel disease?,0.0,0.0,274,1540,12448,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,Describe treatment for chronic kidney disease,0.0,0.0,278,1534,13091,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What are symptoms of schizophrenia?,0.0,0.0,268,1480,11822,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is bipolar disorder managed?,0.0,0.0,321,1386,11389,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What causes psoriasis?,0.0,0.0,269,1541,9373,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,Describe sepsis treatment,0.0,0.0,269,1536,9013,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,What are risk factors for cancer?,0.0,0.0,302,1531,11913,True RLWE FHE — Recall≈0 expected
+2,J,CkksFhe,1.0,1.0,10,How is ALS diagnosed?,0.0,0.0,273,1531,12125,True RLWE FHE — Recall≈0 expected
+3,J,Rome,1.0,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,90,916,22046,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is hypertension treated?,1.0,1.0,64,657,17959,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What causes heart failure?,1.0,1.0,59,582,15745,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,Describe the symptoms of lupus,1.0,1.0,48,494,14419,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What medications treat depression?,1.0,1.0,47,527,13922,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,43,448,13564,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What are risk factors for stroke?,1.0,1.0,44,462,13300,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is asthma managed long-term?,1.0,1.0,43,445,13058,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What are signs of kidney disease?,1.0,1.0,39,400,12128,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,39,401,13336,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What causes Parkinson's disease?,1.0,1.0,39,400,12672,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,37,382,13079,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What are symptoms of anemia?,1.0,1.0,37,384,12134,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is hypothyroidism treated?,1.0,1.0,37,401,10228,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What causes chronic pain?,1.0,1.0,37,381,12368,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,Describe COPD management,1.0,1.0,38,385,11593,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What are signs of liver disease?,1.0,1.0,41,393,12119,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is epilepsy treated?,1.0,1.0,38,384,12229,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What causes osteoporosis?,1.0,1.0,34,357,11556,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,37,357,11610,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,38,353,12619,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is pneumonia diagnosed?,1.0,1.0,40,355,10628,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,33,368,9549,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,39,355,10058,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,38,352,11209,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is bipolar disorder managed?,1.0,1.0,38,354,11832,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What causes psoriasis?,1.0,1.0,39,351,11478,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,Describe sepsis treatment,1.0,1.0,38,379,9420,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,What are risk factors for cancer?,1.0,1.0,38,353,11298,Geometric encryption — ANN-compatible
+3,J,Rome,1.0,1.0,10,How is ALS diagnosed?,1.0,1.0,31,354,10536,Geometric encryption — ANN-compatible
+3,J,CkksFhe,1.0,1.0,10,What are the symptoms of type 2 diabetes?,0.0,0.0,484,2210,16701,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is hypertension treated?,0.0,0.0,404,1870,14218,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What causes heart failure?,0.0,0.0,376,1751,13027,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,Describe the symptoms of lupus,0.0,0.0,342,1567,13093,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What medications treat depression?,0.0,0.0,323,1536,12464,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How does Alzheimer's disease progress?,0.0,0.0,302,1504,13292,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What are risk factors for stroke?,0.0,0.0,305,1497,11435,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is asthma managed long-term?,0.1,0.0519,302,1512,12335,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What are signs of kidney disease?,0.0,0.0,301,1494,13762,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,Describe rheumatoid arthritis treatment,0.0,0.0,288,1487,12173,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What causes Parkinson's disease?,0.1,0.2528,275,1539,13742,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is multiple sclerosis diagnosed?,0.0,0.0,290,1524,13110,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What are symptoms of anemia?,0.0,0.0,305,1502,11555,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is hypothyroidism treated?,0.0,0.0,306,1497,10842,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What causes chronic pain?,0.1,0.0698,303,1493,10741,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,Describe COPD management,0.0,0.0,276,1526,10881,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What are signs of liver disease?,0.0,0.0,304,1492,11492,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is epilepsy treated?,0.1,0.1071,289,1548,12753,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What causes osteoporosis?,0.0,0.0,280,1545,12734,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,Describe symptoms of anxiety disorder,0.0,0.0,273,1509,11378,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What medications are used for HIV/AIDS?,0.0,0.0,272,1502,10748,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is pneumonia diagnosed?,0.0,0.0,286,1532,12167,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What causes inflammatory bowel disease?,0.0,0.0,280,1499,12849,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,Describe treatment for chronic kidney disease,0.0,0.0,277,1509,11537,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What are symptoms of schizophrenia?,0.0,0.0,283,1535,12469,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is bipolar disorder managed?,0.0,0.0,311,1489,11890,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What causes psoriasis?,0.0,0.0,286,1492,11576,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,Describe sepsis treatment,0.0,0.0,276,1537,12961,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,What are risk factors for cancer?,0.0,0.0,312,1528,13236,True RLWE FHE — Recall≈0 expected
+3,J,CkksFhe,1.0,1.0,10,How is ALS diagnosed?,0.0,0.0,278,1542,11328,True RLWE FHE — Recall≈0 expected
+4,J,Rome,1.0,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,76,772,21458,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is hypertension treated?,1.0,1.0,67,670,17350,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What causes heart failure?,1.0,1.0,59,581,14909,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,Describe the symptoms of lupus,1.0,1.0,54,553,14110,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What medications treat depression?,1.0,1.0,47,495,13383,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,47,501,13717,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What are risk factors for stroke?,1.0,1.0,43,443,14126,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is asthma managed long-term?,1.0,1.0,44,444,13315,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What are signs of kidney disease?,1.0,1.0,44,420,12562,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,43,422,12343,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What causes Parkinson's disease?,1.0,1.0,42,396,13220,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,42,463,11149,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What are symptoms of anemia?,1.0,1.0,39,425,11189,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is hypothyroidism treated?,1.0,1.0,39,394,10252,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What causes chronic pain?,1.0,1.0,34,357,9841,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,Describe COPD management,1.0,1.0,38,357,9520,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What are signs of liver disease?,1.0,1.0,38,362,9843,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is epilepsy treated?,1.0,1.0,32,358,9533,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What causes osteoporosis?,1.0,1.0,42,358,9415,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,36,358,9031,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,35,357,9072,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is pneumonia diagnosed?,1.0,1.0,40,358,9149,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,35,385,9603,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,41,361,9803,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,35,356,9948,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is bipolar disorder managed?,1.0,1.0,32,377,9453,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What causes psoriasis?,1.0,1.0,35,362,9915,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,Describe sepsis treatment,1.0,1.0,33,359,9405,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,What are risk factors for cancer?,1.0,1.0,31,373,9742,Geometric encryption — ANN-compatible
+4,J,Rome,1.0,1.0,10,How is ALS diagnosed?,1.0,1.0,32,356,9016,Geometric encryption — ANN-compatible
+4,J,CkksFhe,1.0,1.0,10,What are the symptoms of type 2 diabetes?,0.0,0.0,697,3327,23049,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is hypertension treated?,0.0,0.0,559,2563,19140,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What causes heart failure?,0.0,0.0,462,2287,16888,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,Describe the symptoms of lupus,0.0,0.0,419,2084,15605,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What medications treat depression?,0.0,0.0,398,1899,14620,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How does Alzheimer's disease progress?,0.0,0.0,423,1893,14933,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What are risk factors for stroke?,0.0,0.0,402,1816,15395,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is asthma managed long-term?,0.0,0.0,357,1671,14121,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What are signs of kidney disease?,0.0,0.0,346,1666,14537,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,Describe rheumatoid arthritis treatment,0.0,0.0,330,1655,13878,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What causes Parkinson's disease?,0.0,0.0,332,1655,14429,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is multiple sclerosis diagnosed?,0.0,0.0,361,1553,13895,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What are symptoms of anemia?,0.0,0.0,323,1686,13784,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is hypothyroidism treated?,0.0,0.0,310,1560,12360,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What causes chronic pain?,0.0,0.0,305,1499,12996,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,Describe COPD management,0.0,0.0,342,1523,12948,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What are signs of liver disease?,0.0,0.0,301,1517,13328,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is epilepsy treated?,0.0,0.0,312,1491,13275,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What causes osteoporosis?,0.0,0.0,334,1491,13205,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,Describe symptoms of anxiety disorder,0.0,0.0,311,1536,12696,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What medications are used for HIV/AIDS?,0.0,0.0,302,1538,13818,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is pneumonia diagnosed?,0.0,0.0,302,1493,12609,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What causes inflammatory bowel disease?,0.0,0.0,289,1510,12094,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,Describe treatment for chronic kidney disease,0.0,0.0,268,1478,11809,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What are symptoms of schizophrenia?,0.1,0.1013,275,1532,11625,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is bipolar disorder managed?,0.0,0.0,268,1515,10947,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What causes psoriasis?,0.0,0.0,272,1491,10192,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,Describe sepsis treatment,0.0,0.0,276,1521,10275,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,What are risk factors for cancer?,0.0,0.0,289,1513,11050,True RLWE FHE — Recall≈0 expected
+4,J,CkksFhe,1.0,1.0,10,How is ALS diagnosed?,0.1,0.0965,272,1532,12212,True RLWE FHE — Recall≈0 expected
+5,J,Rome,1.0,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,42,548,14342,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is hypertension treated?,1.0,1.0,40,492,14210,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What causes heart failure?,1.0,1.0,36,398,12199,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,Describe the symptoms of lupus,1.0,1.0,35,456,10991,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What medications treat depression?,1.0,1.0,34,400,10718,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,34,461,12282,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What are risk factors for stroke?,1.0,1.0,31,534,12990,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is asthma managed long-term?,1.0,1.0,35,483,11367,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What are signs of kidney disease?,1.0,1.0,35,372,9818,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,35,352,10731,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What causes Parkinson's disease?,1.0,1.0,35,470,9814,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,68,416,9757,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What are symptoms of anemia?,1.0,1.0,36,363,10128,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is hypothyroidism treated?,1.0,1.0,36,426,10361,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What causes chronic pain?,1.0,1.0,35,411,11275,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,Describe COPD management,1.0,1.0,35,409,11277,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What are signs of liver disease?,1.0,1.0,35,555,11776,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is epilepsy treated?,1.0,1.0,35,377,12109,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What causes osteoporosis?,1.0,1.0,34,363,9757,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,35,466,11653,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,32,459,10240,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is pneumonia diagnosed?,1.0,1.0,35,362,10994,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,34,367,11438,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,35,364,10178,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,34,367,11176,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is bipolar disorder managed?,1.0,1.0,34,363,11055,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What causes psoriasis?,1.0,1.0,35,389,10758,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,Describe sepsis treatment,1.0,1.0,34,363,10928,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,What are risk factors for cancer?,1.0,1.0,34,361,10500,Geometric encryption — ANN-compatible
+5,J,Rome,1.0,1.0,10,How is ALS diagnosed?,1.0,1.0,35,365,11212,Geometric encryption — ANN-compatible
+5,J,CkksFhe,1.0,1.0,10,What are the symptoms of type 2 diabetes?,0.0,0.0,369,1736,13652,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is hypertension treated?,0.0,0.0,328,1555,14103,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What causes heart failure?,0.1,0.0733,318,1497,12927,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,Describe the symptoms of lupus,0.0,0.0,304,1551,14812,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What medications treat depression?,0.0,0.0,311,1526,13340,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How does Alzheimer's disease progress?,0.0,0.0,315,1527,14353,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What are risk factors for stroke?,0.0,0.0,314,1514,13724,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is asthma managed long-term?,0.0,0.0,342,1494,14158,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What are signs of kidney disease?,0.0,0.0,343,1511,12946,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,Describe rheumatoid arthritis treatment,0.0,0.0,308,1538,13328,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What causes Parkinson's disease?,0.0,0.0,336,1531,14010,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is multiple sclerosis diagnosed?,0.0,0.0,305,1529,13519,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What are symptoms of anemia?,0.0,0.0,332,1489,11910,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is hypothyroidism treated?,0.1,0.1283,304,1499,10592,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What causes chronic pain?,0.0,0.0,300,1534,12282,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,Describe COPD management,0.0,0.0,293,1503,13830,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What are signs of liver disease?,0.0,0.0,336,1479,11933,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is epilepsy treated?,0.0,0.0,331,1503,11394,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What causes osteoporosis?,0.0,0.0,302,1545,11549,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,Describe symptoms of anxiety disorder,0.1,0.0834,327,1493,10128,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What medications are used for HIV/AIDS?,0.0,0.0,303,1535,12024,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is pneumonia diagnosed?,0.0,0.0,295,1529,13012,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What causes inflammatory bowel disease?,0.0,0.0,300,1490,12523,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,Describe treatment for chronic kidney disease,0.0,0.0,296,1535,12807,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What are symptoms of schizophrenia?,0.0,0.0,298,1471,12521,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is bipolar disorder managed?,0.0,0.0,303,1508,13191,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What causes psoriasis?,0.0,0.0,276,1526,12143,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,Describe sepsis treatment,0.0,0.0,272,1537,9700,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,What are risk factors for cancer?,0.0,0.0,321,1491,9195,True RLWE FHE — Recall≈0 expected
+5,J,CkksFhe,1.0,1.0,10,How is ALS diagnosed?,0.0,0.0,302,1500,10737,True RLWE FHE — Recall≈0 expected

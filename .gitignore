@@ -1,0 +1,28 @@
+# Rust
+target/
+Cargo.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data caches (re-downloaded automatically)
+experiments/.nfcorpus_cache/
+experiments/.nq_cache/
+experiments/results/nq_subset.pkl
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Runtime artifacts
+*.db
+*.log
+nohup.out

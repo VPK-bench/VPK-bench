@@ -1,0 +1,1891 @@
+trial,exp,algorithm,corpus_size,noise_label,noise_min,noise_max,noise_range_pct,top_k,query,recall_at_k,ndcg_at_k,score_entropy,score_variance,enc_total_us
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005505,20945
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008063,20663
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,20037
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,17394
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005777,16567
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007851,17218
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007439,17384
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005191,16123
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,16835
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007646,16591
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009459,18326
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008741,16252
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,16488
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006409,15738
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000479,16549
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.020794,15899
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,17116
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007898,15672
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008767,16812
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,16244
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006178,15435
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008521,15932
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000444,16313
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,16970
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,17071
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,17757
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014653,17302
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,15851
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000536,15830
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010726,15845
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005486,23202
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008066,19476
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001574,22707
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008035,16847
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005788,17431
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007838,18312
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007422,27210
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005183,18627
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004901,18256
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007668,16335
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009456,16548
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008744,16288
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004839,16481
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006396,16424
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.973,0.00048,16184
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.020799,16999
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000718,16038
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007886,16112
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008777,16209
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,16699
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006187,14602
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,1.8867,0.008511,16109
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000442,15960
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.008065,16255
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011328,19663
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.00957,16850
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014665,16940
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012881,16332
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000543,16270
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010718,15942
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.005401,29897
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypertension treated?,0.9,0.9513,2.0253,0.008183,24812
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001498,20376
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.007773,18947
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005498,19253
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.007939,17632
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,0.9,0.946,1.4979,0.007251,16922
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.164,0.00504,17350
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004795,17093
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007602,16722
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009213,16264
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008627,16909
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,1.7481,0.004899,15655
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006334,16107
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9406,2.164,0.000473,16931
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe COPD management,0.9,0.9644,2.0253,0.021103,15481
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,1.8344,0.000705,16875
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007818,16784
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.008523,16230
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.164,0.011983,15782
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005918,15808
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.00833,17220
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,1.0,2.3026,0.000419,17696
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.0253,0.007872,16056
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.4979,0.011143,16598
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009545,16067
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,1.6957,0.014454,18316
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.012969,17750
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000481,16284
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,0.9997,1.6957,0.010509,15894
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005505,31643
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008063,23340
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,19427
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,17971
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005777,18148
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007851,16357
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007439,16192
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005191,15665
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,15036
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007646,16482
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009459,20931
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008741,17070
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,17262
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006409,17166
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000479,16992
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.020794,15704
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,16294
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007898,15877
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008767,16098
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,16285
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006178,15479
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008521,59405
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000444,42906
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,19181
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,18607
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,18328
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014653,18884
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,19375
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000536,18806
+1,I,Combined,1190,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010726,18917
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.6434,0.005484,31757
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008084,23881
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,1.8867,0.001573,19597
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.007997,19089
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005783,18319
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007838,17386
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007437,17877
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.0052,16619
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004924,16426
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007649,16089
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00946,16189
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008727,16290
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004841,15523
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006423,15315
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000477,16713
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe COPD management,0.9,0.9644,2.0253,0.020796,15713
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000722,16006
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007905,15440
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008775,16517
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012602,16135
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006178,15882
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008537,16274
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000449,15600
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.008081,16721
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011321,15921
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009577,16410
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014644,16220
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012909,15333
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,1.973,0.000542,16945
+1,I,Combined,1190,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010746,16312
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005451,31163
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypertension treated?,0.9,0.9513,2.164,0.008082,24673
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.164,0.001558,20919
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.007869,18762
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005857,17765
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007711,17231
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,0.9,0.9457,1.4979,0.007312,16984
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005266,16902
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.005035,16664
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007592,16687
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009297,16152
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008692,16288
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.004634,16373
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,1.8867,0.006622,16173
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9406,1.973,0.000481,17197
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.0253,0.020309,16845
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,2.164,0.000701,16016
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00793,16253
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008545,16363
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.164,0.012199,15998
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,0.9,0.9519,1.8867,0.006221,15835
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008624,16292
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,0.9996,2.3026,0.000468,15979
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.0253,0.008016,15672
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011254,16271
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.009565,16212
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014167,18281
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012759,16656
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000568,15293
+1,I,Combined,1190,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010099,15815
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9999,1.6434,0.004687,33319
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypertension treated?,0.9,0.9513,2.0253,0.007204,24414
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,0.9998,2.164,0.001169,20936
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,1.8344,0.00712,19341
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,1.0,1.6094,0.005151,19270
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,1.0,0.9999,2.0253,0.006828,19221
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.8,0.879,1.4979,0.00653,18302
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.004665,18188
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,1.0,0.9992,1.8344,0.004262,17395
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.8344,0.006196,16192
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,0.9994,2.0253,0.008141,16772
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.00754,16713
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,1.0,2.164,0.004214,16622
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,1.0,2.164,0.005398,16218
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.8,0.8729,1.7481,0.000527,16605
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe COPD management,0.9,0.9644,1.8867,0.018651,15812
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,0.9999,2.164,0.000611,15957
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,1.0,2.164,0.007354,16015
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.007569,15819
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.011636,16723
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,0.9,0.9515,2.164,0.005625,15708
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.00725,15530
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.8344,0.000336,16148
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.973,0.007075,15175
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.6094,0.009752,15957
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9998,2.0253,0.008407,16064
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,1.6957,0.012729,17234
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe sepsis treatment,0.9,0.9547,2.0253,0.011051,14954
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,1.0,0.9997,2.0253,0.000565,16853
+1,I,Combined,1190,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,0.9997,1.8344,0.008957,15966
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.164,0.003888,30865
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9513,2.0253,0.005472,23554
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9996,2.0253,0.00125,20845
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,0.9,0.9509,2.164,0.005254,23480
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications treat depression?,0.9,0.9478,1.8867,0.00451,18974
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8867,0.005475,17488
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.9,0.9451,1.6434,0.005039,17224
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.00351,17218
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,0.9,0.9405,1.8344,0.004843,16985
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.164,0.005888,16570
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00603,16129
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.00661,16749
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,0.9999,2.0253,0.003521,17513
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.005087,15225
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes chronic pain?,1.0,0.9989,1.6094,0.000413,16087
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe COPD management,1.0,1.0,1.7481,0.015095,15164
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of liver disease?,1.0,0.9991,1.973,0.000632,15332
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is epilepsy treated?,1.0,1.0,1.8344,0.00555,16056
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes osteoporosis?,0.9,0.9556,2.164,0.005909,16406
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.9,0.9528,2.0253,0.008777,15373
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,1.0,0.9999,1.8867,0.004781,15632
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,0.9,0.9499,1.973,0.005252,16687
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,1.0,1.0,2.164,0.000393,16040
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,1.973,0.0059,16437
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.973,0.008974,15784
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.007267,16112
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes psoriasis?,0.9,0.9587,1.8867,0.009115,16424
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.009583,15816
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.9,0.9382,1.8344,0.000551,15863
+1,I,Combined,1190,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,1.0,0.9997,2.0253,0.006877,15609
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9999,1.8867,0.002689,23708
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypertension treated?,1.0,1.0,2.0253,0.003628,20980
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.9995,2.164,0.000378,19302
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,0.9998,1.8344,0.004733,18537
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications treat depression?,1.0,0.9999,1.6094,0.002895,17587
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,0.9,0.954,1.8867,0.004176,17481
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.6,0.7454,1.6094,0.003265,16966
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,1.0,0.9997,2.164,0.002514,16650
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,0.9,0.9462,2.0253,0.001912,17017
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.9,0.9514,1.8344,0.003442,16717
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.0047,15767
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.004293,14870
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.999,2.164,0.002473,16592
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,1.0,0.9998,2.0253,0.003255,16312
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.8,0.8734,2.164,0.000237,16166
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe COPD management,0.9,0.9629,1.8867,0.010945,15800
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9953,1.8867,0.000178,16414
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is epilepsy treated?,0.8,0.9002,2.0253,0.003451,16731
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes osteoporosis?,0.9,0.952,1.973,0.003366,16275
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,0.9,0.9521,2.0253,0.007043,16400
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,0.9,0.9496,2.0253,0.002805,17361
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,0.9,0.9468,1.8867,0.004547,16508
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,1.0,0.9986,1.8867,0.000189,31854
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,0.9,0.9517,1.8344,0.003155,17697
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,0.9,0.9481,1.6957,0.006127,15981
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9998,1.8867,0.003238,15105
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes psoriasis?,1.0,1.0,1.8867,0.007251,15856
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.005218,16233
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,1.0,0.9996,1.6957,0.000247,17076
+1,I,Combined,1190,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.005045,16292
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005505,25012
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008063,21269
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,19784
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,18110
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005777,17213
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007851,16633
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007439,16698
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005191,16682
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,17121
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007646,16681
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009459,16373
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008741,16445
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,16217
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006409,15456
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000479,15455
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.020794,15232
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,16567
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007898,15899
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008767,15083
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,15452
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006178,15959
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008521,15666
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000444,16025
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,16113
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,15701
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,16337
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014653,17109
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,16144
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000536,15682
+2,I,Combined,1190,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010726,15181
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.6434,0.00552,30178
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008057,23150
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,1.8867,0.001568,20071
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008032,19414
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005779,18043
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,0.9,0.954,2.0253,0.007845,17757
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.00744,16547
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005214,16336
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004905,16356
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007653,16816
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009462,16376
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008738,16647
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004856,16728
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006424,15587
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000476,17010
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.020781,15391
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000717,16500
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007895,16008
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008759,16272
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012611,16525
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006165,16141
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008534,18083
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.8867,0.000442,16677
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.008076,16258
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011304,15682
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009554,15348
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014639,16260
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012918,15906
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000536,16576
+2,I,Combined,1190,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,1.6957,0.01073,16169
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.005488,32061
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypertension treated?,0.9,0.9513,2.164,0.007882,23836
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,1.7481,0.001474,20539
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.007747,19865
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005671,18351
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,0.9,0.954,1.8344,0.007656,17827
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007167,17749
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005019,17569
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.5048,0.005036,17264
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007621,16364
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009251,17254
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008462,15556
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,2.164,0.004747,15760
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006141,15423
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9406,1.973,0.000464,16205
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.0253,0.020544,16026
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,2.0253,0.000763,15346
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00772,16951
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes osteoporosis?,1.0,1.0,2.3026,0.008737,16797
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012445,16216
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,0.9,0.9517,1.8344,0.006228,16045
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,2.164,0.008305,15712
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,0.9999,2.164,0.000471,16329
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.0253,0.008049,16700
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.4979,0.011135,15890
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009586,16012
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,1.973,0.014605,15278
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012849,16432
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,1.0,1.0,1.8344,0.000505,15891
+2,I,Combined,1190,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,0.9997,1.6957,0.01085,16570
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9999,1.6957,0.004614,33126
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypertension treated?,0.9,0.9511,2.0253,0.007249,23791
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,1.0,2.3026,0.001768,20187
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.006737,19818
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,1.0,1.973,0.005093,19154
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,1.0,0.9987,1.5048,0.007367,18657
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9458,1.6094,0.006072,18084
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,2.164,0.004502,17664
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,1.0,1.0,1.8344,0.004586,16789
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007377,16537
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,1.0,2.164,0.00889,17336
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.8344,0.006485,16699
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,0.9992,1.8867,0.003784,16522
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,1.0,1.7481,0.005451,15193
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.9,0.9367,1.8344,0.000356,15830
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe COPD management,0.9,0.9644,2.0253,0.018789,17976
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of liver disease?,0.9,0.9403,1.8867,0.000671,17344
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is epilepsy treated?,0.9,0.9512,1.8867,0.007502,16887
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes osteoporosis?,0.9,0.9553,2.164,0.007042,16147
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.164,0.010693,16670
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,0.9,0.9519,1.8867,0.005757,17405
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,0.9,0.9501,1.973,0.007414,16522
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,1.0,0.9999,1.8867,0.000396,16424
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,2.0253,0.007645,17015
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,0.9996,1.6094,0.010068,16097
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.009177,16087
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,1.6957,0.01383,15404
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.011601,15015
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,1.0,1.0,2.164,0.000429,16226
+2,I,Combined,1190,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,1.6957,0.009067,15545
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9996,2.0253,0.003643,31786
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9492,2.0253,0.005389,23018
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,1.0,2.164,0.001153,19992
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,0.9,0.9508,2.0253,0.005757,18574
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications treat depression?,1.0,1.0,1.973,0.003964,17701
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.954,1.8344,0.00445,17906
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.8,0.8879,1.0889,0.005586,15832
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,0.9999,1.973,0.003716,17209
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,0.9,0.9411,1.8867,0.002695,17842
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.7481,0.00544,16175
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00654,16869
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.8344,0.00612,16100
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,1.0,2.164,0.003476,16914
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005127,15666
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes chronic pain?,0.8,0.8539,1.8344,0.000343,14847
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe COPD management,0.9,0.9644,1.8867,0.014348,14770
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of liver disease?,1.0,0.9998,1.8867,0.000591,16110
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is epilepsy treated?,0.9,0.9513,2.0253,0.005434,15956
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes osteoporosis?,1.0,1.0,1.8344,0.005704,16300
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.9,0.9528,1.8867,0.00917,16451
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,0.9,0.9517,1.8344,0.00499,16987
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,0.9,0.948,2.164,0.006374,16748
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,0.9,0.94,1.7481,0.000493,16823
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9998,2.0253,0.005764,15669
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.7481,0.008061,16026
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,0.9997,2.0253,0.006214,16003
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes psoriasis?,1.0,0.9999,1.8344,0.009791,16585
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe sepsis treatment,1.0,1.0,1.973,0.009061,15507
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.9,0.9384,2.164,0.00036,16162
+2,I,Combined,1190,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,0.8,0.9104,2.0253,0.007755,15860
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9998,1.8344,0.00237,19275
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.9512,2.0253,0.003467,18523
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.9996,2.164,0.00104,17507
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,0.9999,1.973,0.003576,17653
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications treat depression?,1.0,0.9998,2.0253,0.002668,17727
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,0.9,0.9519,1.6957,0.004317,18023
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.8,0.8867,1.3592,0.00316,17633
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,1.0,1.0,2.164,0.002156,16580
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,0.9,0.9444,2.0253,0.002112,15622
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,1.0,0.9997,1.973,0.003792,17563
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,1.0,1.0,2.164,0.004491,18308
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.8867,0.003936,18628
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,1.0,2.164,0.002725,17593
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,1.0,0.9999,1.8867,0.002962,15927
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.8,0.8767,2.164,0.000268,17882
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe COPD management,0.9,0.9644,2.0253,0.009053,21277
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9993,1.8867,0.000225,17949
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is epilepsy treated?,0.9,0.9489,2.164,0.003129,22625
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes osteoporosis?,1.0,1.0,2.164,0.003579,19440
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.0253,0.006522,18633
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,1.0,0.9999,2.3026,0.002247,21468
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,1.0,0.9998,2.0253,0.003332,17004
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,1.0,0.9987,1.8344,0.000231,18106
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,1.0,0.9997,1.8344,0.002919,17141
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,0.9,0.9457,1.7481,0.005587,18286
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9999,2.164,0.003248,17609
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.005987,17767
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe sepsis treatment,0.9,0.9547,2.164,0.005733,17215
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.9,0.9235,1.973,0.000294,17162
+2,I,Combined,1190,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,0.9,0.9552,1.8867,0.003922,17680
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005505,29504
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008063,22907
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,19512
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,19302
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005777,17591
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007851,17669
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007439,17396
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005191,16519
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,16516
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007646,16517
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009459,16578
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008741,20849
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,17027
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006409,15685
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000479,16311
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.020794,16502
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,14823
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007898,15892
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008767,16024
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,16097
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006178,15733
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008521,15577
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000444,16263
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,16624
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,17495
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,16129
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014653,15158
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,14881
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000536,14982
+3,I,Combined,1190,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010726,15575
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005513,30021
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008081,23767
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,1.8867,0.001561,21700
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.008006,19089
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005781,18335
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007883,17545
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007442,17957
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005182,17147
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004901,18130
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007638,19149
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009443,17286
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008723,15987
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.00484,16251
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006391,14849
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000478,16398
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.020757,15232
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000717,16780
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.00788,16981
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.008765,16748
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012649,16922
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006152,15949
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008541,16660
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.8867,0.000443,17374
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.008075,17243
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011316,15622
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009552,15340
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014668,15007
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012936,14863
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,1.8867,0.000535,15844
+3,I,Combined,1190,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010691,15260
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005231,31179
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypertension treated?,1.0,1.0,2.164,0.00797,23349
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.164,0.001468,20338
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.008025,18775
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8344,0.0056,18643
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007851,18261
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,0.9,0.946,1.4979,0.007368,17573
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005106,17684
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004673,16718
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007591,16955
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009121,15640
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.8344,0.00879,16732
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,2.164,0.00485,16398
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,1.6957,0.006421,15586
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes chronic pain?,1.0,1.0,2.0253,0.000467,16144
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.0253,0.020553,16059
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000721,16269
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007807,15435
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.00883,17006
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,0.9,0.9528,2.0253,0.012693,15292
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,0.9,0.9519,1.6957,0.006212,14933
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.008544,16548
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.8867,0.000428,15912
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,1.973,0.00818,15984
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011063,15453
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009822,15374
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,1.6957,0.014653,15730
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012787,15605
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,1.0,1.0,1.973,0.000519,15826
+3,I,Combined,1190,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.01066,14782
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.004585,30605
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypertension treated?,0.9,0.9513,2.0253,0.007094,23215
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,0.9982,2.164,0.001598,19961
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,0.9,0.9506,1.8344,0.00631,19726
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,1.0,2.0253,0.004986,18453
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,0.9,0.954,2.0253,0.007566,18273
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9458,1.4979,0.006625,17071
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,1.8344,0.004178,17161
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,1.0,0.9999,1.6957,0.004036,16622
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.164,0.006931,15405
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.008884,16505
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.8344,0.00705,16197
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.003663,16764
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,1.0,1.8344,0.005814,15069
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes chronic pain?,1.0,0.9999,1.8344,0.000414,16402
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe COPD management,1.0,1.0,2.0253,0.018437,15948
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,1.0,1.8344,0.00066,16118
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,1.0,1.7481,0.007093,18116
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes osteoporosis?,0.9,0.9557,2.164,0.007191,15870
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,0.8,0.9031,2.0253,0.010832,15004
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.8867,0.005651,15004
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,1.0,2.164,0.007697,14867
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,1.0,0.9999,2.164,0.000397,15790
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8344,0.00718,16008
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.8344,0.009845,16229
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.008186,17039
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,1.5571,0.013253,16573
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.011855,15367
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,1.0,0.9998,1.8867,0.000492,16148
+3,I,Combined,1190,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,1.6957,0.009207,15543
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9999,2.164,0.004283,31846
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypertension treated?,1.0,1.0,2.164,0.006024,25089
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9998,2.164,0.00104,20810
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.006313,19371
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications treat depression?,1.0,0.9997,1.8867,0.003982,18504
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.9508,1.6957,0.004422,23764
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.7,0.8266,1.0889,0.005651,18843
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003915,17072
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,0.9,0.9437,2.164,0.002961,16058
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,1.0,0.9998,2.0253,0.005524,15420
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,1.0,1.0,2.164,0.005934,15382
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.005392,15471
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,0.9992,1.8867,0.003377,17061
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,0.9996,1.5571,0.004544,15549
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes chronic pain?,0.9,0.9376,2.0253,0.000312,18525
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe COPD management,1.0,1.0,2.164,0.014002,16292
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of liver disease?,1.0,0.9997,2.0253,0.000615,16551
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is epilepsy treated?,0.9,0.9513,1.8867,0.005343,15831
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes osteoporosis?,0.9,0.9528,2.0253,0.005073,16355
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,1.0,1.0,1.8867,0.009222,15697
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,0.9,0.9518,1.8344,0.004645,15046
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,0.9,0.948,1.8867,0.006,15919
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,1.0,0.9998,1.8344,0.000247,16294
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,0.9,0.9517,1.8867,0.005748,15513
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.6094,0.007266,16095
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,1.0,2.164,0.006866,16042
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes psoriasis?,1.0,0.9997,2.0253,0.010516,15843
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.009514,16007
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.9,0.9386,2.164,0.000385,16808
+3,I,Combined,1190,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,1.0,0.9991,1.8344,0.006765,15607
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9999,1.8344,0.00217,27007
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.9492,2.164,0.003947,23270
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.9998,2.164,0.000594,20475
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.003624,18785
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications treat depression?,1.0,0.9995,1.6957,0.002533,18639
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,0.9,0.9521,1.8867,0.003018,17910
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.9,0.9429,1.2206,0.003366,18066
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,1.0,0.9998,1.973,0.002105,16466
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,1.0,0.9992,2.0253,0.001875,17410
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.9,0.95,2.164,0.004401,16628
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,0.9,0.9537,1.8867,0.004764,16987
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,1.0,0.9996,1.8344,0.004233,16597
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.9996,2.164,0.001716,16878
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,1.0,0.9993,1.8344,0.003198,15593
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.9,0.9207,2.164,0.000195,16145
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe COPD management,1.0,1.0,2.164,0.008857,15541
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9994,1.8867,0.000371,16145
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is epilepsy treated?,1.0,1.0,2.164,0.003268,15038
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes osteoporosis?,1.0,0.9994,2.0253,0.003369,17279
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,0.9,0.9523,2.0253,0.004023,16628
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,1.0,0.9994,2.0253,0.002811,16094
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,0.8,0.8979,2.164,0.004492,15530
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,0.9,0.9399,2.0253,0.00048,16810
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,0.9,0.951,1.8867,0.002954,15913
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.8867,0.005287,16027
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9998,2.164,0.0037,16599
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes psoriasis?,1.0,1.0,1.6957,0.006555,15450
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.006256,15460
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,1.0,0.9998,2.0253,0.000297,16005
+3,I,Combined,1190,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,0.9999,1.8344,0.005694,15220
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005505,24220
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008063,21238
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,18258
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,18230
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005777,17536
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007851,17087
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007439,16566
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005191,16609
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,17037
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007646,16119
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009459,16026
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008741,16547
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,16194
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006409,15519
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000479,15387
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.020794,15978
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,16815
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007898,16164
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008767,17045
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,15958
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006178,14698
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008521,16210
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000444,15749
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,15681
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,16265
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,16612
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014653,16830
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,16041
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000536,16630
+4,I,Combined,1190,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010726,16235
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.005494,22825
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008052,19944
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001576,18823
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008023,17428
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005774,16512
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007859,15363
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.00744,15772
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005189,15311
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.8344,0.004924,15630
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007661,15178
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009468,15401
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008745,15285
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004826,15056
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006394,15139
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes chronic pain?,0.9,0.9406,1.973,0.00048,15588
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe COPD management,0.9,0.9644,2.0253,0.020805,16148
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000715,15497
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007917,14871
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.008779,14977
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012602,14339
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006179,15126
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.00854,15165
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.8867,0.000445,15110
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.0253,0.008078,15257
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011298,15523
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009549,14854
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014644,15469
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012877,14757
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000532,14619
+4,I,Combined,1190,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,1.6957,0.01076,14501
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.6434,0.005444,26611
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypertension treated?,0.9,0.9513,2.164,0.008037,21492
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.164,0.001699,19033
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.007635,18433
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005666,17222
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,0.9,0.954,1.8344,0.007821,17191
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,0.9,0.946,1.3592,0.007445,16934
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005136,16008
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004918,16277
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007451,15809
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009356,15051
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008546,16664
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.004688,15538
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,1.6957,0.006591,15013
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9406,1.973,0.000472,17107
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe COPD management,0.9,0.9644,2.0253,0.02047,15754
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,2.0253,0.000771,16196
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.00782,15497
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.008897,16509
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,0.9,0.9528,2.0253,0.012581,16571
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006317,15612
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,2.164,0.008269,15788
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,1.0,2.0253,0.000476,16826
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.973,0.008103,16679
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.4979,0.0115,16416
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,0.9999,2.0253,0.009427,15975
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014588,15735
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012758,15868
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,1.0,1.0,1.973,0.00059,15959
+4,I,Combined,1190,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,0.9997,1.6957,0.010466,15996
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.6957,0.005286,24259
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.006743,21674
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,1.0,2.164,0.001303,19932
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.00719,19280
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,0.9999,1.6434,0.00465,18998
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,0.9,0.9537,1.8867,0.006749,21805
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9371,1.4979,0.006639,17052
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.004773,16699
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004515,16969
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.006708,16901
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.008241,15740
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.8344,0.007226,15088
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.004419,16488
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.006261,16461
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.9,0.9399,1.6094,0.000409,17527
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe COPD management,0.9,0.9644,1.8867,0.018166,16474
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,0.9995,1.6957,0.000492,15932
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,0.9999,1.8867,0.007057,16299
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes osteoporosis?,1.0,0.9998,2.0253,0.007743,16270
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.011189,16788
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,0.9,0.9517,2.0253,0.005294,17618
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.007163,15428
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,1.0,0.9995,2.164,0.000302,16780
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.164,0.006743,17230
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.6094,0.009434,16561
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,0.9,0.9552,2.0253,0.009087,17177
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,1.6957,0.012684,15921
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.011049,15138
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,1.0,0.9999,1.8344,0.000535,16147
+4,I,Combined,1190,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,1.5571,0.009369,15039
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8867,0.003651,18471
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9512,2.0253,0.005727,18389
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9998,1.8867,0.001526,18676
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,0.9,0.9498,1.8344,0.005334,18374
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications treat depression?,0.9,0.9473,2.0253,0.003907,17294
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.954,1.973,0.004889,18417
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.9,0.9455,1.7481,0.004931,27625
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003095,18177
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,0.9,0.9437,1.6434,0.003189,18670
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,0.9,0.9511,2.0253,0.004696,18210
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,1.0,0.9994,2.3026,0.007057,19234
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,1.0,0.9998,1.8344,0.006329,19022
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,0.999,2.164,0.003329,21693
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.0037,18954
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes chronic pain?,0.9,0.9346,2.0253,0.000379,16645
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe COPD management,0.9,0.9631,2.0253,0.014771,15940
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of liver disease?,0.9,0.9402,1.8344,0.000444,17892
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is epilepsy treated?,1.0,0.9999,2.0253,0.004786,20023
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes osteoporosis?,0.9,0.9556,2.164,0.006229,17541
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.8,0.9031,1.8344,0.009615,16777
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,0.9,0.9519,1.8867,0.004016,16909
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,1.0,0.9999,1.8344,0.005087,17467
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,1.0,0.9996,2.0253,0.00035,18704
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9996,2.0253,0.004987,28685
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,0.9,0.9506,1.973,0.008543,37961
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,0.9,0.952,2.164,0.00684,22754
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes psoriasis?,1.0,0.9999,1.8344,0.010088,17843
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe sepsis treatment,1.0,1.0,1.8344,0.009211,16711
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,1.0,0.9993,2.0253,0.000512,16783
+4,I,Combined,1190,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,0.8,0.9101,1.6957,0.007679,16399
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9998,1.973,0.00271,29455
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.9513,2.164,0.003631,22855
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.998,2.164,0.000819,21656
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.003006,19656
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications treat depression?,0.9,0.9475,2.0253,0.002948,18585
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,1.0,0.9987,2.0253,0.002974,17825
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.7,0.8205,0.9404,0.003458,17840
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,1.0,0.9998,2.164,0.002343,16091
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,1.0,0.9992,1.5571,0.002222,16904
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,1.0,0.9999,1.973,0.004365,15600
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003864,15572
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.004563,15184
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.9982,1.8867,0.001805,16615
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,1.0,0.9999,1.6957,0.004015,16374
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.9,0.9263,2.164,0.000203,17181
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe COPD management,0.9,0.9631,1.8867,0.007883,17328
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9983,1.8344,0.000331,16485
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is epilepsy treated?,0.9,0.9464,2.0253,0.002679,16663
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes osteoporosis?,1.0,1.0,2.164,0.004033,17464
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,1.0,0.9997,1.8344,0.004755,16133
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,1.0,0.9995,1.8867,0.002898,15353
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,1.0,0.9998,1.8867,0.003792,16882
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,1.0,0.9984,2.0253,0.000227,16906
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,1.0,0.9998,1.8867,0.003833,16085
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,0.9,0.9504,1.973,0.00452,16745
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,0.9,0.9552,1.8867,0.004729,16098
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes psoriasis?,1.0,0.9978,1.6094,0.006483,15121
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.006355,16548
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.9,0.9364,2.164,0.000325,16067
+4,I,Combined,1190,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,1.0,2.0253,0.004647,17247
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005505,22932
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008063,20080
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,19674
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,18548
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005777,16927
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007851,17119
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007439,17039
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005191,17494
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,16913
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007646,16270
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009459,16859
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008741,16051
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,20770
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006409,16874
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000479,17287
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.020794,16546
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,16288
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007898,15902
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.008767,16367
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,16105
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006178,15793
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008521,15555
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000444,15838
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,15598
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,16593
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,16246
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014653,16350
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,16141
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000536,16403
+5,I,Combined,1190,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,1.8867,0.010726,15616
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005523,22775
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008071,19067
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,2.164,0.00157,16740
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.008029,16617
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005785,17501
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007852,17119
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.4979,0.007457,16749
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005184,17317
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.8344,0.004912,17069
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007647,16618
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009456,16356
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.00875,16442
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004861,16635
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006407,15883
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.973,0.00048,15655
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.020804,17469
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000724,17352
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007877,16891
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.008747,16769
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012628,16760
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006166,16466
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008523,17481
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.6957,0.000442,16970
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.0253,0.008056,17143
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011293,16569
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009561,15848
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014661,16369
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012903,16514
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000539,16187
+5,I,Combined,1190,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,1.6957,0.01075,16364
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.005609,18413
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypertension treated?,1.0,1.0,2.164,0.008075,17527
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.164,0.001524,18496
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.007783,16640
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8344,0.005795,17908
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.007848,18105
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,1.0,1.0,1.3592,0.007306,17520
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.005065,16807
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.005048,16410
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.007427,16306
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.009185,16954
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.008358,16224
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.004759,16663
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.006195,16656
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9406,1.8344,0.000476,16211
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe COPD management,0.9,0.9644,2.0253,0.020579,16186
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,1.8344,0.000809,16662
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00773,16517
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes osteoporosis?,0.9,0.9557,2.0253,0.008622,17507
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,0.9,0.9528,2.0253,0.012456,16873
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.164,0.006072,16497
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.008508,17039
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,1.0,2.0253,0.000414,17214
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8344,0.008113,17171
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.4979,0.01136,16857
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,0.9999,2.0253,0.009312,17210
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.014408,17924
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.013048,16791
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,1.0,1.0,1.973,0.000545,17654
+5,I,Combined,1190,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,0.9997,1.6957,0.010584,17717
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.6957,0.004413,29887
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypertension treated?,0.9,0.9513,2.0253,0.007113,18255
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,0.9983,1.7481,0.001385,18578
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.007184,17729
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,1.0,1.8867,0.004958,17461
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,0.9,0.9536,1.6957,0.006965,18408
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9459,1.3592,0.006385,16946
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.004732,17089
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,1.0,0.9991,1.6957,0.004535,16467
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,2.0253,0.006879,16208
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.008762,16554
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.973,0.007358,16417
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,0.9999,2.164,0.004543,16006
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,0.9996,1.8867,0.006114,15615
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.9,0.9406,2.164,0.000419,15913
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe COPD management,0.9,0.9644,2.0253,0.020186,17139
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,1.0,1.5048,0.000577,17268
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.006325,17505
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes osteoporosis?,0.9,0.9556,2.3026,0.007347,17276
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,0.8,0.9031,2.164,0.011479,16446
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,0.9,0.9519,1.8344,0.0057,16357
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,0.9,0.9499,2.0253,0.007085,16981
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,1.0,0.9999,2.164,0.000536,16689
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,1.8867,0.006898,15684
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.6094,0.010167,16099
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,0.9,0.9551,1.8867,0.008219,21103
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,1.8344,0.013754,18289
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.011142,18169
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,1.0,0.9999,2.0253,0.000511,20563
+5,I,Combined,1190,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,1.8344,0.00926,17382
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,1.0,0.9998,2.0253,0.003503,19276
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9491,1.8344,0.005672,20520
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9979,1.8867,0.000809,18882
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,0.9,0.951,2.0253,0.006244,17096
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications treat depression?,0.9,0.9479,2.0253,0.004239,16829
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.9518,1.8344,0.004411,19580
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.8,0.8887,1.4979,0.004749,17891
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,0.9999,2.0253,0.003999,17138
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,0.9,0.9459,1.8344,0.003315,16826
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,1.0,0.9999,1.8344,0.004995,16527
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.006713,16408
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.6434,0.005505,16095
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,0.9993,1.973,0.003675,16179
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,0.9998,1.973,0.004708,15707
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes chronic pain?,0.9,0.9377,2.0253,0.000473,16210
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe COPD management,0.9,0.9644,2.0253,0.013216,15985
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What are signs of liver disease?,1.0,0.9998,1.6957,0.000459,15970
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is epilepsy treated?,0.9,0.9492,1.973,0.005976,15915
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes osteoporosis?,0.9,0.9556,2.0253,0.005888,16010
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.0253,0.008554,15584
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,1.0,0.9999,2.0253,0.003749,15366
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,1.0,0.9998,2.0253,0.005918,15978
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,1.0,0.9995,2.3026,0.000448,16214
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9987,2.0253,0.006281,15867
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9996,1.7481,0.007882,16185
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.006203,16238
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What causes psoriasis?,1.0,1.0,1.6957,0.00952,15826
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.009334,15626
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.9,0.9395,1.8344,0.000496,15877
+5,I,Combined,1190,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,0.9,0.9564,1.8867,0.007631,15991
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.002324,23061
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.9513,2.164,0.004584,17616
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,1.0,2.164,0.000765,17909
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,0.9,0.951,2.0253,0.003538,17008
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications treat depression?,1.0,0.9999,2.0253,0.002966,17893
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,0.9,0.9532,2.164,0.003402,18543
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.8,0.8705,1.3592,0.003787,18399
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,1.0,0.9999,2.164,0.002845,17668
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,1.0,0.9986,1.5048,0.002077,17903
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.9,0.9515,2.164,0.004703,17150
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,1.0,1.0,2.164,0.003878,17747
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,1.0,0.9998,2.164,0.003585,16432
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.9987,2.0253,0.002241,17257
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,1.0,0.9993,2.0253,0.003311,19775
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.7,0.8024,1.973,0.000147,18706
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe COPD management,1.0,1.0,2.0253,0.010891,18750
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9992,1.973,0.000312,17733
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is epilepsy treated?,1.0,0.9999,2.0253,0.003244,16577
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes osteoporosis?,0.9,0.9524,2.0253,0.004052,16524
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.0253,0.005641,15620
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,0.9,0.9519,2.0253,0.002416,14999
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,0.9,0.9479,1.973,0.003937,16413
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,1.0,0.9998,1.8344,0.000221,17073
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,0.9,0.951,1.973,0.003634,16904
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,0.9,0.9485,1.6957,0.005017,16527
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9998,2.0253,0.003493,16968
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What causes psoriasis?,1.0,1.0,1.8867,0.006474,16987
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.005826,16645
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.9,0.9334,1.7481,0.000336,17200
+5,I,Combined,1190,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,0.9,0.9562,1.8867,0.005766,17040
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003435,36706
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005521,33112
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,32592
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,30948
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003396,31759
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000821,32529
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.8344,0.007964,32747
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003935,32484
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,33392
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005914,31990
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00303,32690
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007511,31329
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,31881
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005555,32795
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000424,32637
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.015977,30965
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,31731
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00767,32793
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006361,32930
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,31951
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005768,30800
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007096,33425
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.00038,33183
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,31446
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,32750
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,32922
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011981,32459
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,32618
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000581,33324
+1,I,Combined,4823,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003794,32780
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003441,47051
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005534,38617
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,1.8867,0.001571,32686
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.008043,32168
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003403,32583
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000821,37187
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.8344,0.007943,33181
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003943,32899
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,32568
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005906,32894
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003029,33309
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.0253,0.007518,33015
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004852,32546
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,1.8344,0.00556,31255
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000425,31265
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.015952,34138
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000722,32722
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007663,32776
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.00635,33296
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012618,32157
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005762,30844
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007094,32500
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.000384,32480
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.008097,31915
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011318,32342
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009585,32597
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011977,34572
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012914,32365
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,1.973,0.000579,32230
+1,I,Combined,4823,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003789,31838
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,0.8,0.8888,1.8344,0.003458,35102
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005355,32406
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001515,31844
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008024,31115
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003328,34473
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.164,0.000824,39878
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,1.0,1.0,1.973,0.007865,32929
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003962,31656
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004701,32386
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005854,35729
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003058,40876
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007706,48442
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.00483,36452
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,1.8344,0.00555,33031
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes chronic pain?,1.0,0.9999,1.973,0.000403,32967
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.0253,0.015813,33052
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,1.8344,0.000676,33540
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007496,33803
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.006281,34005
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012474,34384
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,2.0253,0.005571,32651
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007019,32174
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,0.9999,1.8344,0.000387,34153
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.164,0.007987,32863
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011284,32708
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,0.9,0.9552,1.8867,0.009329,33771
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,1.8867,0.011781,34529
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012821,33054
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,1.0,1.0,1.973,0.000566,31866
+1,I,Combined,4823,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,1.0,2.0253,0.003764,32459
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9403,1.6957,0.003009,50226
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypertension treated?,0.9,0.9469,1.6094,0.004754,38060
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,1.0,2.3026,0.001148,35222
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,2.0253,0.006452,35234
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,0.9995,2.0253,0.002825,34045
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,1.0,0.9987,2.164,0.000843,35754
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9476,1.8344,0.007085,35430
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003666,33947
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,1.0,0.9999,2.0253,0.004006,35652
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,0.9,0.945,1.6957,0.005213,32736
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.002543,33639
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,0.9,0.9502,2.164,0.00703,33910
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.004261,33202
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,1.0,1.6957,0.005079,34569
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.8,0.8781,2.164,0.000291,33819
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe COPD management,1.0,1.0,2.0253,0.015245,34056
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,0.9992,1.6957,0.000699,32856
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.006579,33584
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes osteoporosis?,1.0,0.9998,2.0253,0.00541,32667
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,0.9,0.9523,2.164,0.011101,34877
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,1.0,0.9999,2.0253,0.005192,33333
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,0.9999,1.973,0.006531,33473
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,0.8,0.876,2.0253,0.000418,35215
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.164,0.007258,32529
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.010561,32866
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.009041,32858
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.010267,31934
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.010923,31665
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,0.9,0.9302,2.164,0.000569,32549
+1,I,Combined,4823,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003508,33194
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9455,1.973,0.002157,45119
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9471,2.164,0.002955,37478
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,1.0,1.8867,0.001275,35202
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.006189,34407
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications treat depression?,1.0,0.9997,1.8344,0.002509,34995
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.94,2.164,0.000642,35730
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.8,0.8929,1.6957,0.005923,34690
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,0.9992,2.0253,0.003336,32551
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,1.0,0.9997,2.0253,0.002815,32432
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,0.9,0.9352,1.2275,0.003864,32760
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,0.9,0.9466,2.0253,0.002417,32077
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.005627,32990
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.002676,32381
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,0.9,0.9486,2.164,0.003386,33013
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes chronic pain?,0.9,0.9345,2.164,0.000244,34685
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe COPD management,1.0,1.0,2.0253,0.011815,32773
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of liver disease?,1.0,0.9991,2.0253,0.000661,33823
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is epilepsy treated?,0.9,0.9469,1.973,0.004811,33749
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes osteoporosis?,1.0,0.9986,1.8867,0.004101,33985
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.9,0.9503,2.0253,0.007577,34092
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.8344,0.00401,32385
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,1.0,1.0,1.8344,0.004965,34054
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,0.8,0.8754,2.3026,0.000248,34038
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,1.973,0.00516,32371
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9998,1.6957,0.007656,33172
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,0.9999,2.164,0.007084,33580
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes psoriasis?,0.9,0.9565,1.8867,0.009691,34823
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe sepsis treatment,0.9,0.9547,2.164,0.008835,31721
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,1.0,0.9989,2.0253,0.000463,34012
+1,I,Combined,4823,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003286,32886
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,0.7,0.8287,2.164,0.001244,41565
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.946,1.8344,0.002346,35918
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.9982,2.3026,0.000826,33371
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,0.9995,2.0253,0.004446,32454
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications treat depression?,0.9,0.9443,1.8867,0.00139,37497
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,0.9,0.9393,2.0253,0.000517,42490
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.9,0.945,1.7481,0.003835,34541
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,0.9,0.9476,1.7481,0.001782,33080
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,1.0,0.9998,1.7481,0.001988,31847
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.9,0.9423,1.4708,0.002531,32025
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,0.9,0.9458,2.0253,0.001287,32727
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,0.9,0.9478,2.0253,0.003272,32819
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.9987,2.0253,0.00187,32090
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,1.0,0.9989,2.0253,0.002861,32256
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.9,0.9374,2.164,0.000245,32203
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe COPD management,1.0,0.9987,1.8867,0.006197,32981
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9996,1.6957,0.000335,33705
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is epilepsy treated?,0.9,0.948,1.8344,0.003569,34240
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes osteoporosis?,0.9,0.9503,2.0253,0.002718,32084
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,0.9,0.9517,1.8344,0.005469,31388
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,0.9,0.9461,2.0253,0.002245,31258
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.002604,32919
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,0.8,0.8622,2.0253,0.000137,33409
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,1.0,0.9997,1.7481,0.003473,33041
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.8344,0.005321,31445
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9999,2.164,0.004919,32691
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes psoriasis?,0.9,0.958,1.8867,0.004796,32405
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe sepsis treatment,0.9,0.9547,2.164,0.005586,31481
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.8,0.8697,2.0253,0.000307,31533
+1,I,Combined,4823,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,0.9995,2.0253,0.001215,31919
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003435,55136
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005521,39949
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,36139
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,35171
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003396,33864
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000821,33790
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.8344,0.007964,37146
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003935,33796
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,34064
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005914,34345
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00303,32223
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007511,32767
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,32713
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005555,33690
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000424,34149
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.015977,32849
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,33469
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00767,33416
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006361,36248
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,34397
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005768,31946
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007096,33033
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.00038,33338
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,32840
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,32208
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,33062
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011981,33896
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,33929
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000581,36524
+2,I,Combined,4823,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003794,34415
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003435,55863
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005523,37789
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001565,35241
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008054,35720
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003405,33406
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000819,34533
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.8344,0.007978,34266
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003944,35715
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004926,35296
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005926,34912
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003026,33935
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.0253,0.007507,33753
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004859,34169
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005547,32612
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000423,33373
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.015987,32481
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,35913
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007661,32933
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.006389,35288
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012607,35493
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.8344,0.00577,31340
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007107,33051
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.000382,36951
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.008068,33087
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011332,32959
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.00956,37127
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011982,33427
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012899,34536
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000585,34571
+2,I,Combined,4823,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003797,34767
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9455,1.8344,0.003424,39566
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005436,34280
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.3026,0.001562,33764
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.007994,34545
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.5048,0.003371,34228
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000805,33383
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,0.9,0.9478,1.973,0.007602,33221
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003946,33836
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,0.9,0.9463,1.6957,0.004825,33457
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,0.9,0.9452,1.4979,0.005836,33511
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.164,0.003056,32647
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007295,34339
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.004592,33780
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,2.0253,0.00534,33229
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9403,1.973,0.000427,33561
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.0253,0.015905,38824
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000696,35179
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.00742,34956
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.00618,33825
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,0.9,0.9528,2.164,0.01247,33862
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.8344,0.005806,33820
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,2.164,0.006794,34262
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.00039,33660
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.973,0.00796,33833
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011078,35509
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009502,32729
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011565,32738
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012711,32683
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,0.9,0.9372,1.973,0.000576,33487
+2,I,Combined,4823,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,1.0,2.0253,0.003753,32751
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9433,1.8344,0.003111,49355
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypertension treated?,0.9,0.9472,2.0253,0.004953,40619
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001366,37461
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.007824,34009
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,1.0,2.0253,0.002799,32664
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.0253,0.000785,34034
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9474,1.973,0.006731,34310
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,2.3026,0.003737,33657
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,0.9,0.9439,2.0253,0.004826,33496
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,0.9,0.9392,1.4979,0.005376,35705
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,0.9994,1.8344,0.002519,33668
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,0.9,0.9522,2.0253,0.006485,34397
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,0.9999,1.8867,0.004429,33873
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,0.9,0.9488,2.0253,0.005082,33601
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.9,0.94,2.0253,0.000352,32225
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe COPD management,1.0,1.0,2.164,0.014104,33012
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,0.9993,1.973,0.000484,33814
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.006945,33876
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes osteoporosis?,1.0,0.9998,2.164,0.005923,32989
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.0253,0.010901,34664
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,0.9,0.9495,2.0253,0.005168,33210
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,1.0,2.0253,0.006219,32731
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,0.9,0.9395,2.0253,0.000352,33148
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,2.164,0.007318,33172
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,0.9996,1.6094,0.009196,34023
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.008215,33502
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.010559,34066
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe sepsis treatment,0.9,0.9547,2.3026,0.012143,33588
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,1.0,0.9999,2.0253,0.00049,34347
+2,I,Combined,4823,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,0.9997,2.164,0.003987,33099
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9426,1.8344,0.002628,56396
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypertension treated?,1.0,0.9998,1.973,0.003747,39297
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9993,1.8867,0.000923,35213
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,1.0,0.9999,1.973,0.005729,36785
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications treat depression?,0.9,0.945,1.8867,0.0024,34707
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.9353,1.973,0.000573,37809
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.8,0.8929,1.7481,0.005282,37597
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,0.9993,2.0253,0.002967,35251
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,1.0,0.9991,1.8867,0.003453,34998
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,0.9,0.939,1.3592,0.004128,34030
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,0.9,0.9464,2.164,0.002328,33614
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,0.9,0.9521,2.164,0.004931,32813
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,0.9999,2.0253,0.003345,33150
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,0.9999,2.0253,0.003736,34009
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes chronic pain?,0.9,0.9377,1.8344,0.000241,35785
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe COPD management,1.0,1.0,1.8867,0.01291,32341
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of liver disease?,0.9,0.9389,1.6094,0.00075,33312
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is epilepsy treated?,1.0,0.9999,2.164,0.005597,32806
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.004404,35003
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,1.0,1.0,1.973,0.009227,32680
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,1.0,0.9994,1.8344,0.004198,32952
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,1.0,0.9999,1.973,0.004623,32148
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,0.8,0.8639,2.0253,0.000103,32579
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,1.0,2.0253,0.005859,33264
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9997,1.973,0.007956,36699
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,0.9999,1.6957,0.007523,36165
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes psoriasis?,1.0,0.9978,1.8867,0.008195,34521
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.008946,34305
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.9,0.9367,2.164,0.000294,34425
+2,I,Combined,4823,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.002053,33524
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9455,1.8344,0.001505,57403
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.9421,2.0253,0.002057,39877
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.9999,2.0253,0.000791,34757
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.003337,34096
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications treat depression?,0.9,0.9447,1.8344,0.00136,33570
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,1.0,0.9989,1.8867,0.000421,34150
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.9,0.9425,1.6957,0.003214,35605
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,0.9,0.9416,1.8867,0.001427,34803
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,0.9,0.9445,2.164,0.002944,34410
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.9,0.943,1.3592,0.002921,34590
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,0.9,0.9462,2.0253,0.001451,32883
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,0.9,0.9502,2.164,0.002757,33573
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.9994,1.8344,0.002175,33343
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,1.0,0.9996,2.164,0.002073,33347
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes chronic pain?,1.0,0.9957,2.0253,0.000123,33448
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe COPD management,1.0,0.9981,2.0253,0.00548,33378
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of liver disease?,0.9,0.9219,1.6434,0.000223,33160
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is epilepsy treated?,1.0,0.9999,1.6957,0.003968,33828
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes osteoporosis?,0.9,0.9488,1.973,0.002316,32593
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.005165,32740
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.00242,33092
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,0.9,0.9484,1.973,0.003172,33067
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,0.9,0.9389,1.6957,0.000182,35837
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,0.9,0.9517,1.973,0.003237,33873
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,0.9,0.95,1.8867,0.004733,32811
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,0.9,0.9538,2.0253,0.004367,33029
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes psoriasis?,0.9,0.957,1.8867,0.005049,33224
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe sepsis treatment,1.0,0.9999,1.8344,0.004364,33405
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.7,0.7816,1.8344,0.000291,33596
+2,I,Combined,4823,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,0.9998,1.8867,0.002376,32761
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003435,50328
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005521,39588
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,34814
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,33870
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003396,34442
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000821,33394
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.8344,0.007964,33960
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003935,33369
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,33485
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005914,34539
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00303,32023
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007511,32200
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,33303
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005555,32982
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000424,34103
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.015977,32550
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,32009
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00767,31657
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006361,32921
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,32225
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005768,32593
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007096,33338
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.00038,33733
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,32937
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,34560
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,32529
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011981,32821
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,32817
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000581,33770
+3,I,Combined,4823,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003794,32734
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003429,45906
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005529,37311
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,1.8867,0.001561,35009
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008033,33940
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.5048,0.003391,33737
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000816,33638
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.6094,0.007991,33028
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003931,32207
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004913,32274
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005918,32581
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003024,33694
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.0253,0.007497,32494
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004849,32952
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005569,35068
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000427,33557
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.015993,34075
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000722,34998
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007659,35717
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.00637,35568
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012583,33188
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005785,33420
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007093,33030
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.000381,32561
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00809,32233
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011344,32526
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009568,34483
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011997,34383
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012911,34034
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.00058,33691
+3,I,Combined,4823,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003769,33285
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003391,54901
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypertension treated?,0.9,0.9472,1.8867,0.005385,37950
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001528,38842
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.007927,34558
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8867,0.003369,35484
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.164,0.00078,34679
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,0.9,0.9478,1.973,0.008082,33935
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003831,33732
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004729,33110
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.00605,33145
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003047,34017
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007543,34104
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004709,34046
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,1.8344,0.005412,35004
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9403,1.973,0.000446,35484
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.0253,0.015825,33950
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,2.0253,0.000758,36054
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00757,37443
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes osteoporosis?,1.0,0.9998,1.8867,0.006228,35272
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.164,0.01208,34540
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.5048,0.005885,35455
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007022,36552
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,1.0,2.164,0.000342,35025
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.6957,0.008081,34984
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.4979,0.011235,35178
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.009516,35418
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011938,34586
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012826,35290
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,0.9,0.9397,1.973,0.000611,33809
+3,I,Combined,4823,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,1.0,2.0253,0.003753,34415
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.002991,56363
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypertension treated?,1.0,1.0,1.8344,0.004978,38868
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,1.0,2.164,0.001228,34878
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,1.8344,0.007258,32763
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,1.0,2.0253,0.002812,33819
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.164,0.00078,34528
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9474,1.8867,0.006671,34787
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,0.9,0.9453,2.0253,0.003737,35564
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,1.0,1.0,1.8344,0.004062,36170
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,1.0,0.9999,1.4979,0.005219,35286
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,0.9998,2.0253,0.002529,37040
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,0.9,0.9521,2.0253,0.006643,38731
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,1.0,1.7481,0.004454,34312
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,1.0,1.8867,0.004895,34285
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.8,0.875,2.164,0.000332,34505
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe COPD management,1.0,1.0,2.3026,0.014056,32959
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,0.9994,1.8344,0.000867,34136
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.006616,35210
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes osteoporosis?,1.0,0.9998,1.8344,0.005649,34728
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.164,0.011429,34820
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.8344,0.005146,34596
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,0.9999,1.973,0.006284,35750
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,1.0,0.9999,2.164,0.000413,34613
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.6957,0.007163,34515
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.009853,33922
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9998,2.0253,0.008463,33623
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,1.8867,0.010744,34857
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.011463,34397
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,0.9,0.937,1.6094,0.000489,33306
+3,I,Combined,4823,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003248,33874
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,0.8,0.8855,1.8344,0.002615,58055
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9471,1.6957,0.003908,39845
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9982,2.0253,0.000897,35480
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.005945,34539
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications treat depression?,0.9,0.9452,1.8867,0.002694,33527
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.938,2.164,0.000665,35012
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.9,0.9473,1.6094,0.005286,33056
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.002816,33761
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,0.9,0.9407,1.8867,0.004531,34035
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,0.9,0.9427,1.6094,0.003864,33058
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,1.0,0.9999,1.8344,0.001841,32579
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,0.9,0.951,1.8867,0.00451,33424
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,0.9998,2.0253,0.003276,33453
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,0.9998,1.973,0.004584,33334
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes chronic pain?,1.0,0.9972,2.0253,0.00018,33061
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe COPD management,1.0,1.0,2.0253,0.009795,36334
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of liver disease?,0.9,0.9378,1.4708,0.000536,33724
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is epilepsy treated?,0.9,0.95,2.0253,0.005272,32676
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.005292,33681
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.9,0.9527,2.164,0.008318,31960
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,0.9,0.9495,1.8867,0.003609,31970
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,0.9,0.949,1.8867,0.005407,33327
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,1.0,0.9991,1.8344,0.00026,33825
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9994,1.973,0.00585,33480
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9997,1.7481,0.008029,32829
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,1.0,1.8344,0.006559,33570
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.008288,34874
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.008926,32025
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.9,0.9375,2.0253,0.000393,32965
+3,I,Combined,4823,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,1.0,0.9998,2.164,0.002189,32200
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,0.7,0.8282,1.8344,0.001327,43285
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.9444,1.8867,0.002065,90749
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes heart failure?,0.9,0.9412,1.973,0.000884,91973
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,0.9999,2.164,0.003816,38197
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications treat depression?,1.0,0.9999,2.0253,0.001498,35870
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,0.9,0.9351,2.164,0.000225,44440
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.9,0.939,1.6957,0.003344,46224
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,1.0,1.0,1.973,0.001847,37020
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,0.9,0.9411,2.0253,0.002375,35044
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.8,0.8821,1.6957,0.002477,37567
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,0.9,0.9455,2.0253,0.000984,34759
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,0.9,0.9519,2.164,0.003648,43352
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.999,1.8867,0.002118,41771
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,0.9,0.945,1.8344,0.002263,38607
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.9,0.9396,2.164,0.000183,37485
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe COPD management,1.0,0.9993,1.8867,0.007142,46682
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of liver disease?,0.9,0.9239,1.6094,0.000564,37661
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is epilepsy treated?,0.9,0.95,1.8344,0.003441,35603
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes osteoporosis?,0.9,0.9478,2.0253,0.002896,34353
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,0.9,0.9528,2.164,0.005807,36460
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,0.9,0.9488,2.0253,0.00195,35077
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,0.9,0.9401,2.0253,0.004152,35487
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,0.8,0.867,2.0253,0.000199,36107
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,1.0,0.9996,2.164,0.004051,34909
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.8344,0.004704,34560
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9998,2.164,0.004452,36604
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes psoriasis?,1.0,1.0,1.8867,0.004702,34601
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe sepsis treatment,0.9,0.9503,2.164,0.005693,34438
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.9,0.9375,2.164,0.000275,34926
+3,I,Combined,4823,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,0.9991,2.3026,0.001845,33884
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003435,57235
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005521,67093
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,45024
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,34975
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003396,35201
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000821,37122
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.8344,0.007964,36003
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003935,33547
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,34972
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005914,34516
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00303,33775
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007511,34632
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,33095
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005555,32688
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000424,32984
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.015977,32974
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,33742
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00767,33635
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006361,34122
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,36738
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005768,35934
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007096,34101
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.00038,34602
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,34043
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,33253
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,32927
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011981,33063
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,32602
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000581,33579
+4,I,Combined,4823,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003794,35243
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003421,47731
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypertension treated?,0.9,0.9472,1.8867,0.0055,38346
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001574,36448
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.00802,33800
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003387,36277
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.00082,38264
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.6094,0.007969,36220
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003933,36022
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.00491,35691
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005906,33954
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003038,35197
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007518,36522
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004842,61385
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,1.8344,0.005552,35065
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000423,32439
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.015962,32535
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000714,31225
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00769,31963
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006359,33202
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012606,33283
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005767,35343
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.0071,33472
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.00038,33452
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.008078,33432
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011368,35062
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009609,35813
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011964,35052
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012868,33453
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000578,34603
+4,I,Combined,4823,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.00379,33889
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003249,55169
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypertension treated?,0.9,0.9472,1.8867,0.005236,38775
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.164,0.001503,35130
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.00793,33362
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.8867,0.003312,33783
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,2.164,0.000831,35618
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,1.0,1.0,1.6094,0.00797,37209
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003866,33686
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004641,33366
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.00587,34369
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.002956,34285
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,0.9,0.9521,2.164,0.007344,33552
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004753,33780
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005558,33341
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes chronic pain?,0.9,0.9404,1.8344,0.000424,32209
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.0253,0.015593,38800
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000811,34088
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007415,33423
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006277,32962
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.011998,32229
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005649,34072
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007021,32689
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,0.9999,1.6957,0.000379,34615
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8344,0.007786,32346
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011404,32912
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.009571,33998
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011906,33788
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012749,32359
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,0.9,0.934,2.0253,0.000621,32967
+4,I,Combined,4823,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,1.0,2.0253,0.003563,35617
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,0.8,0.8838,2.164,0.002896,56942
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypertension treated?,1.0,0.9999,2.0253,0.004515,38060
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,1.0,2.3026,0.001668,36027
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.00725,34775
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,1.0,1.6957,0.002969,33272
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,1.0,0.9999,2.164,0.000759,34943
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,1.0,0.9999,1.8344,0.007415,35227
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003658,34440
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,0.9,0.9463,1.6957,0.004532,34895
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,0.9,0.9447,1.6434,0.00518,33313
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,0.9998,2.0253,0.002698,33862
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,0.9,0.9521,2.164,0.006902,33300
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,0.9999,2.0253,0.004561,33746
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,0.9998,1.7481,0.00463,34648
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.9,0.9378,2.0253,0.000346,34163
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe COPD management,1.0,1.0,1.8867,0.014063,34391
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000673,34920
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.006845,33181
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes osteoporosis?,1.0,0.9999,1.8867,0.006175,30574
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.0253,0.011074,31529
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6434,0.005064,42758
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,1.0,2.164,0.006483,41446
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,0.9,0.9365,1.8867,0.000395,37018
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.007032,35368
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.7481,0.010145,32619
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9999,2.0253,0.008263,32702
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes psoriasis?,1.0,1.0,1.8867,0.010754,30778
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe sepsis treatment,1.0,1.0,2.164,0.011539,32149
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,0.9,0.9395,1.8344,0.000509,31855
+4,I,Combined,4823,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003289,31751
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9456,1.973,0.002409,48870
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9471,1.7481,0.003943,41119
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9998,2.164,0.001256,34477
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,1.0,0.9999,2.164,0.00546,31031
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications treat depression?,1.0,0.9999,1.8867,0.002471,31108
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,1.0,0.9999,2.3026,0.000861,32546
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,1.0,1.0,1.7481,0.00512,32205
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.002924,42352
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,1.0,1.0,1.973,0.003366,32148
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,0.9,0.9439,1.6957,0.003858,31665
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,1.0,0.9994,2.3026,0.00181,32442
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,0.9,0.9521,2.164,0.004748,34689
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,0.9999,2.0253,0.003729,31263
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,0.9,0.9488,2.164,0.003722,30435
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes chronic pain?,0.9,0.9399,2.0253,0.000198,30337
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe COPD management,1.0,1.0,2.0253,0.011143,31462
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of liver disease?,0.9,0.9403,1.8867,0.000763,33244
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.005647,32727
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes osteoporosis?,1.0,1.0,2.164,0.003791,33650
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.0253,0.008022,33391
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,1.0,0.9999,1.8867,0.003846,32182
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,0.9,0.946,1.8344,0.00468,32725
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,0.8,0.8754,1.8867,0.000259,33691
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,2.0253,0.005035,31522
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9998,1.8344,0.006622,30622
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,0.9998,2.0253,0.006147,30943
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes psoriasis?,0.9,0.9584,2.0253,0.007569,31015
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe sepsis treatment,0.9,0.9547,2.0253,0.009134,33952
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.8,0.8681,2.164,0.000401,33775
+4,I,Combined,4823,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,1.0,1.0,2.0253,0.002705,33055
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,0.7,0.8284,2.0253,0.001807,43933
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.9375,1.6094,0.002899,38927
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.9984,1.6957,0.000664,35126
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.00351,34747
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications treat depression?,0.8,0.8879,2.0253,0.001426,35885
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,1.0,0.9988,1.973,0.000263,37677
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.9,0.9477,1.8344,0.003112,39588
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,0.9,0.9483,2.164,0.001938,34271
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,0.9,0.9457,1.8344,0.002236,34870
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.9,0.9443,1.6434,0.002661,34270
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,0.9,0.9463,2.3026,0.00158,33935
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,1.8867,0.003387,33982
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,1.0,2.3026,0.002844,33885
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,0.9,0.9488,1.973,0.002886,34732
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.9,0.939,2.0253,0.00024,35162
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe COPD management,1.0,1.0,2.164,0.007297,35313
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9957,1.7481,0.000215,37133
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is epilepsy treated?,0.9,0.951,2.0253,0.003976,33593
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes osteoporosis?,1.0,0.9999,2.3026,0.002826,33783
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,0.9,0.9491,1.8867,0.006033,34696
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,1.0,0.9999,2.164,0.002206,33596
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,0.9,0.9488,2.0253,0.003303,33250
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,1.0,0.9945,2.0253,0.000123,32929
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,1.7481,0.005115,33287
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,0.9,0.9505,1.8344,0.00505,34691
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9996,1.8344,0.003426,34127
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes psoriasis?,0.8,0.9148,1.8867,0.005503,34084
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe sepsis treatment,1.0,1.0,1.973,0.00563,32784
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.9,0.936,2.0253,0.000164,34724
+4,I,Combined,4823,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,0.9995,2.0253,0.001341,34029
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.8344,0.003435,35339
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.005521,32592
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001569,32239
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.008025,32115
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003396,32445
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000821,34851
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for stroke?,1.0,1.0,1.8344,0.007964,35099
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003935,36147
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of kidney disease?,1.0,1.0,1.6957,0.004912,33911
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005914,35021
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.00303,35233
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007511,33860
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004847,32655
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is hypothyroidism treated?,1.0,1.0,1.973,0.005555,34304
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000424,34706
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe COPD management,1.0,1.0,2.0253,0.015977,33580
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000719,33956
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.00767,34061
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006361,33031
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012617,36925
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005768,32638
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007096,33309
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.00038,32766
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00808,32647
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011327,33154
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009573,34894
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011981,32585
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012907,34658
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000581,32673
+5,I,Combined,4823,0%,1.0,1.0,0.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003794,32650
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9456,1.8344,0.003452,35133
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypertension treated?,1.0,1.0,1.8867,0.00553,32600
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001571,33715
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.00801,33147
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications treat depression?,1.0,1.0,1.5048,0.003386,33924
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.8344,0.000819,35239
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for stroke?,1.0,1.0,1.6094,0.007966,32810
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003922,33978
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of kidney disease?,1.0,1.0,1.8344,0.00493,33726
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005897,32423
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003024,33605
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007477,33544
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004856,33311
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is hypothyroidism treated?,1.0,1.0,1.8344,0.005561,36177
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes chronic pain?,1.0,1.0,1.8344,0.000424,34736
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe COPD management,1.0,1.0,2.0253,0.015993,34669
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What are signs of liver disease?,1.0,1.0,1.8867,0.000715,34434
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is epilepsy treated?,1.0,1.0,1.8867,0.007683,33746
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.006355,34482
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012635,33215
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.6957,0.005765,32820
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.007086,33496
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.973,0.000381,33503
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8867,0.00807,33360
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011359,32777
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is bipolar disorder managed?,1.0,1.0,1.8867,0.00956,32806
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011993,34017
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.01292,33231
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,What are risk factors for cancer?,1.0,1.0,2.0253,0.000579,32437
+5,I,Combined,4823,1%,0.99,1.01,1.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003761,32273
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What are the symptoms of type 2 diabetes?,1.0,1.0,2.0253,0.003478,52668
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypertension treated?,0.9,0.9472,1.8867,0.005567,38331
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes heart failure?,1.0,1.0,2.0253,0.001585,35275
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe the symptoms of lupus,1.0,1.0,1.973,0.007931,33562
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications treat depression?,1.0,1.0,1.6957,0.003293,32642
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How does Alzheimer's disease progress?,1.0,1.0,1.973,0.000737,34705
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for stroke?,1.0,1.0,1.7481,0.008129,33219
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is asthma managed long-term?,1.0,1.0,2.0253,0.003911,32737
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of kidney disease?,1.0,1.0,1.8344,0.004856,32976
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.4979,0.005783,33814
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.003097,33130
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is multiple sclerosis diagnosed?,1.0,1.0,2.164,0.007464,33948
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of anemia?,1.0,1.0,2.0253,0.004828,33594
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is hypothyroidism treated?,1.0,1.0,2.164,0.005382,33667
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes chronic pain?,1.0,1.0,1.973,0.000426,34508
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe COPD management,1.0,1.0,2.164,0.015937,56782
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What are signs of liver disease?,1.0,1.0,1.973,0.000742,46026
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is epilepsy treated?,1.0,1.0,2.0253,0.007548,38717
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes osteoporosis?,1.0,1.0,1.8867,0.006158,33537
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe symptoms of anxiety disorder,1.0,1.0,2.0253,0.012488,33315
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What medications are used for HIV/AIDS?,1.0,1.0,1.8344,0.005884,34139
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is pneumonia diagnosed?,1.0,1.0,1.973,0.006832,34418
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes inflammatory bowel disease?,1.0,1.0,1.8344,0.000382,33447
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe treatment for chronic kidney disease,1.0,1.0,1.8344,0.008004,33445
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.7481,0.011034,33524
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is bipolar disorder managed?,1.0,1.0,2.0253,0.009762,33991
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What causes psoriasis?,1.0,1.0,2.0253,0.011669,34349
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.012607,32622
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,What are risk factors for cancer?,0.9,0.9303,2.0253,0.000614,34772
+5,I,Combined,4823,10%,0.9,1.1,10.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003827,34508
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What are the symptoms of type 2 diabetes?,0.9,0.943,2.0253,0.002517,38253
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypertension treated?,1.0,1.0,1.973,0.005419,34916
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes heart failure?,1.0,0.9982,1.8867,0.001624,32705
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.007078,33204
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications treat depression?,1.0,0.9998,1.6957,0.003247,32938
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How does Alzheimer's disease progress?,0.9,0.9408,2.164,0.000842,32669
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for stroke?,0.9,0.9456,1.6094,0.00691,32323
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is asthma managed long-term?,0.9,0.9483,2.164,0.003705,32653
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of kidney disease?,0.9,0.944,1.6957,0.004001,32737
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe rheumatoid arthritis treatment,0.9,0.9449,1.6094,0.005513,33952
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes Parkinson's disease?,1.0,1.0,2.0253,0.002677,32563
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is multiple sclerosis diagnosed?,1.0,0.9996,2.0253,0.006482,31839
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of anemia?,1.0,1.0,1.7481,0.004844,32443
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is hypothyroidism treated?,1.0,0.9998,1.6957,0.00506,32544
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes chronic pain?,0.9,0.9402,2.164,0.00029,34159
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe COPD management,1.0,1.0,2.0253,0.014319,31481
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What are signs of liver disease?,1.0,1.0,2.0253,0.000729,32575
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is epilepsy treated?,0.9,0.951,1.8867,0.006986,31765
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.005611,31555
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe symptoms of anxiety disorder,0.9,0.9508,2.164,0.010601,32965
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What medications are used for HIV/AIDS?,0.9,0.9474,1.8344,0.005444,31995
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is pneumonia diagnosed?,1.0,1.0,1.8344,0.006636,32433
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes inflammatory bowel disease?,1.0,0.9999,1.8344,0.000329,33004
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,2.0253,0.007617,32995
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What are symptoms of schizophrenia?,1.0,1.0,1.8344,0.010562,33743
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is bipolar disorder managed?,1.0,0.9999,2.0253,0.007918,33161
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What causes psoriasis?,0.9,0.9582,1.8867,0.011022,32013
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,Describe sepsis treatment,0.9,0.9547,2.0253,0.011651,31651
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,What are risk factors for cancer?,0.9,0.9391,2.0253,0.00046,32989
+5,I,Combined,4823,30%,0.7,1.3,30.0,10,How is ALS diagnosed?,1.0,1.0,2.164,0.003253,35130
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9453,1.8344,0.002525,49523
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypertension treated?,0.9,0.9471,2.0253,0.004133,40560
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes heart failure?,1.0,0.9999,1.8867,0.000969,35074
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe the symptoms of lupus,1.0,1.0,2.164,0.005995,33563
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications treat depression?,0.9,0.945,1.973,0.002272,33277
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How does Alzheimer's disease progress?,0.9,0.9405,2.164,0.001006,36359
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for stroke?,0.9,0.9474,2.0253,0.00506,36316
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is asthma managed long-term?,0.9,0.9483,2.0253,0.002744,35547
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of kidney disease?,0.9,0.9463,1.7481,0.003739,34577
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe rheumatoid arthritis treatment,0.9,0.9421,1.6094,0.003621,45487
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes Parkinson's disease?,0.9,0.9464,2.164,0.002227,34191
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is multiple sclerosis diagnosed?,0.9,0.9521,2.0253,0.004932,33581
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of anemia?,1.0,1.0,1.8867,0.003378,32900
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is hypothyroidism treated?,1.0,0.9996,1.6957,0.004064,32459
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes chronic pain?,1.0,0.9996,2.164,0.00032,32950
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe COPD management,1.0,1.0,2.0253,0.011766,33688
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What are signs of liver disease?,1.0,0.9989,1.6957,0.00024,32406
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is epilepsy treated?,1.0,1.0,1.8344,0.005095,32866
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes osteoporosis?,1.0,1.0,2.0253,0.004855,32837
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe symptoms of anxiety disorder,0.8,0.9031,2.164,0.008303,33294
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What medications are used for HIV/AIDS?,1.0,0.9996,2.0253,0.003526,33216
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is pneumonia diagnosed?,0.9,0.9491,1.8867,0.004683,32373
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes inflammatory bowel disease?,0.7,0.7993,2.0253,0.000331,32885
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,1.973,0.00521,33117
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What are symptoms of schizophrenia?,1.0,0.9999,1.8344,0.007494,31917
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is bipolar disorder managed?,1.0,0.9986,1.8344,0.007196,32102
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What causes psoriasis?,0.9,0.9582,2.164,0.008909,33646
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,Describe sepsis treatment,0.9,0.9547,2.164,0.009368,31954
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,What are risk factors for cancer?,0.9,0.9365,2.164,0.000358,34724
+5,I,Combined,4823,50%,0.5,1.5,50.0,10,How is ALS diagnosed?,1.0,1.0,2.0253,0.002361,33861
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What are the symptoms of type 2 diabetes?,0.9,0.9398,1.973,0.001998,40997
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypertension treated?,0.9,0.947,1.973,0.002505,34181
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes heart failure?,1.0,0.9998,2.0253,0.000897,34256
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe the symptoms of lupus,1.0,0.9995,1.973,0.002669,33188
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications treat depression?,1.0,1.0,1.8867,0.001557,32118
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How does Alzheimer's disease progress?,0.9,0.9382,2.0253,0.00039,32764
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for stroke?,0.8,0.889,1.6094,0.003926,33240
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is asthma managed long-term?,0.9,0.9402,1.6957,0.001751,32755
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of kidney disease?,0.9,0.9458,1.6957,0.002257,32757
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe rheumatoid arthritis treatment,0.9,0.9417,1.6957,0.002427,33413
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes Parkinson's disease?,1.0,0.9994,2.0253,0.001522,32802
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is multiple sclerosis diagnosed?,0.9,0.9502,2.0253,0.003399,32504
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of anemia?,1.0,0.9988,1.8344,0.001896,33279
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is hypothyroidism treated?,0.9,0.9484,2.164,0.002665,33939
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes chronic pain?,0.7,0.807,2.164,7.9e-05,32382
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe COPD management,1.0,1.0,2.3026,0.00633,33029
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What are signs of liver disease?,1.0,0.9989,1.7481,0.000211,32743
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is epilepsy treated?,0.9,0.951,2.0253,0.003838,32410
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes osteoporosis?,1.0,0.9999,2.0253,0.002743,32347
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe symptoms of anxiety disorder,1.0,0.9998,1.8867,0.005454,32718
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What medications are used for HIV/AIDS?,1.0,0.9997,1.6957,0.002766,32223
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is pneumonia diagnosed?,1.0,0.9998,1.973,0.002931,32817
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes inflammatory bowel disease?,1.0,0.9993,2.164,0.000199,32468
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe treatment for chronic kidney disease,1.0,0.9999,1.973,0.003928,32029
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What are symptoms of schizophrenia?,0.9,0.9504,1.973,0.004977,31878
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is bipolar disorder managed?,1.0,0.9999,1.8867,0.004769,33954
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What causes psoriasis?,0.9,0.9584,2.164,0.005133,32940
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,Describe sepsis treatment,1.0,1.0,2.0253,0.005736,31903
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,What are risk factors for cancer?,0.9,0.9395,2.0253,0.000268,31911
+5,I,Combined,4823,70%,0.3,1.7,70.0,10,How is ALS diagnosed?,1.0,0.9995,2.164,0.002336,32402

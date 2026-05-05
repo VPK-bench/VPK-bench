@@ -1,0 +1,1751 @@
+trial,exp,algorithm,top_k,query,recall_at_k,ndcg_at_k,kendall_tau
+1,E,Scrambling,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Scrambling,1,How is hypertension treated?,1.0,1.0,1.0
+1,E,Scrambling,1,What causes heart failure?,1.0,1.0,1.0
+1,E,Scrambling,1,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Scrambling,1,What medications treat depression?,1.0,1.0,1.0
+1,E,Scrambling,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Scrambling,1,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Scrambling,1,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Scrambling,1,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Scrambling,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Scrambling,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Scrambling,5,How is hypertension treated?,1.0,1.0,1.0
+1,E,Scrambling,5,What causes heart failure?,1.0,1.0,1.0
+1,E,Scrambling,5,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Scrambling,5,What medications treat depression?,1.0,1.0,1.0
+1,E,Scrambling,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Scrambling,5,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Scrambling,5,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Scrambling,5,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Scrambling,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Scrambling,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Scrambling,10,How is hypertension treated?,1.0,1.0,1.0
+1,E,Scrambling,10,What causes heart failure?,1.0,1.0,1.0
+1,E,Scrambling,10,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Scrambling,10,What medications treat depression?,1.0,1.0,1.0
+1,E,Scrambling,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Scrambling,10,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Scrambling,10,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Scrambling,10,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Scrambling,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Scrambling,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Scrambling,20,How is hypertension treated?,1.0,1.0,1.0
+1,E,Scrambling,20,What causes heart failure?,1.0,1.0,1.0
+1,E,Scrambling,20,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Scrambling,20,What medications treat depression?,1.0,1.0,1.0
+1,E,Scrambling,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Scrambling,20,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Scrambling,20,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Scrambling,20,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Scrambling,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Scrambling,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Scrambling,50,How is hypertension treated?,1.0,1.0,1.0
+1,E,Scrambling,50,What causes heart failure?,1.0,1.0,1.0
+1,E,Scrambling,50,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Scrambling,50,What medications treat depression?,1.0,1.0,1.0
+1,E,Scrambling,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Scrambling,50,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Scrambling,50,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Scrambling,50,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Scrambling,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Noise,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Noise,1,How is hypertension treated?,1.0,1.0,1.0
+1,E,Noise,1,What causes heart failure?,1.0,1.0,1.0
+1,E,Noise,1,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Noise,1,What medications treat depression?,1.0,1.0,1.0
+1,E,Noise,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Noise,1,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Noise,1,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Noise,1,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Noise,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Noise,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Noise,5,How is hypertension treated?,1.0,1.0,1.0
+1,E,Noise,5,What causes heart failure?,1.0,1.0,1.0
+1,E,Noise,5,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Noise,5,What medications treat depression?,1.0,1.0,1.0
+1,E,Noise,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Noise,5,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Noise,5,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Noise,5,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Noise,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Noise,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Noise,10,How is hypertension treated?,1.0,1.0,1.0
+1,E,Noise,10,What causes heart failure?,1.0,1.0,1.0
+1,E,Noise,10,Describe the symptoms of lupus,1.0,1.0,0.9556
+1,E,Noise,10,What medications treat depression?,1.0,1.0,1.0
+1,E,Noise,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Noise,10,What are risk factors for stroke?,1.0,1.0,0.9556
+1,E,Noise,10,How is asthma managed long-term?,1.0,1.0,0.9556
+1,E,Noise,10,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Noise,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Noise,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+1,E,Noise,20,How is hypertension treated?,1.0,1.0,0.9684
+1,E,Noise,20,What causes heart failure?,1.0,1.0,0.9895
+1,E,Noise,20,Describe the symptoms of lupus,0.95,0.9999,0.9789
+1,E,Noise,20,What medications treat depression?,1.0,1.0,1.0
+1,E,Noise,20,How does Alzheimer's disease progress?,0.95,0.9999,0.9895
+1,E,Noise,20,What are risk factors for stroke?,0.95,0.9998,0.9368
+1,E,Noise,20,How is asthma managed long-term?,1.0,1.0,0.9684
+1,E,Noise,20,What are signs of kidney disease?,1.0,1.0,0.9789
+1,E,Noise,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+1,E,Noise,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.951
+1,E,Noise,50,How is hypertension treated?,1.0,1.0,0.9804
+1,E,Noise,50,What causes heart failure?,1.0,1.0,0.982
+1,E,Noise,50,Describe the symptoms of lupus,0.98,0.9893,0.9694
+1,E,Noise,50,What medications treat depression?,0.98,0.9895,0.9813
+1,E,Noise,50,How does Alzheimer's disease progress?,0.98,0.9917,0.9796
+1,E,Noise,50,What are risk factors for stroke?,0.98,0.9885,0.9643
+1,E,Noise,50,How is asthma managed long-term?,1.0,1.0,0.9837
+1,E,Noise,50,What are signs of kidney disease?,0.96,0.9792,0.984
+1,E,Noise,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9881
+1,E,Combined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Combined,1,How is hypertension treated?,1.0,1.0,1.0
+1,E,Combined,1,What causes heart failure?,1.0,1.0,1.0
+1,E,Combined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Combined,1,What medications treat depression?,1.0,1.0,1.0
+1,E,Combined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Combined,1,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Combined,1,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Combined,1,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Combined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Combined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Combined,5,How is hypertension treated?,1.0,1.0,1.0
+1,E,Combined,5,What causes heart failure?,1.0,1.0,1.0
+1,E,Combined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Combined,5,What medications treat depression?,1.0,1.0,1.0
+1,E,Combined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Combined,5,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Combined,5,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Combined,5,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Combined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Combined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Combined,10,How is hypertension treated?,1.0,1.0,1.0
+1,E,Combined,10,What causes heart failure?,1.0,1.0,1.0
+1,E,Combined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Combined,10,What medications treat depression?,1.0,1.0,1.0
+1,E,Combined,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Combined,10,What are risk factors for stroke?,1.0,1.0,0.9111
+1,E,Combined,10,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Combined,10,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Combined,10,Describe rheumatoid arthritis treatment,1.0,1.0,0.9556
+1,E,Combined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9895
+1,E,Combined,20,How is hypertension treated?,0.95,1.0,0.9895
+1,E,Combined,20,What causes heart failure?,1.0,1.0,0.9895
+1,E,Combined,20,Describe the symptoms of lupus,0.9,0.9998,1.0
+1,E,Combined,20,What medications treat depression?,1.0,1.0,0.9789
+1,E,Combined,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Combined,20,What are risk factors for stroke?,1.0,1.0,0.8842
+1,E,Combined,20,How is asthma managed long-term?,1.0,1.0,0.9789
+1,E,Combined,20,What are signs of kidney disease?,1.0,1.0,0.9684
+1,E,Combined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+1,E,Combined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9592
+1,E,Combined,50,How is hypertension treated?,0.98,0.9899,0.9762
+1,E,Combined,50,What causes heart failure?,1.0,1.0,0.9902
+1,E,Combined,50,Describe the symptoms of lupus,0.98,0.9892,0.9728
+1,E,Combined,50,What medications treat depression?,0.98,0.9895,0.9796
+1,E,Combined,50,How does Alzheimer's disease progress?,0.98,0.9917,0.9847
+1,E,Combined,50,What are risk factors for stroke?,0.98,0.9886,0.966
+1,E,Combined,50,How is asthma managed long-term?,0.98,0.9906,0.983
+1,E,Combined,50,What are signs of kidney disease?,1.0,1.0,0.9771
+1,E,Combined,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9813
+1,E,Rome,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Rome,1,How is hypertension treated?,1.0,1.0,1.0
+1,E,Rome,1,What causes heart failure?,1.0,1.0,1.0
+1,E,Rome,1,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Rome,1,What medications treat depression?,1.0,1.0,1.0
+1,E,Rome,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Rome,1,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Rome,1,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Rome,1,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Rome,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Rome,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Rome,5,How is hypertension treated?,1.0,1.0,1.0
+1,E,Rome,5,What causes heart failure?,1.0,1.0,1.0
+1,E,Rome,5,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Rome,5,What medications treat depression?,1.0,1.0,1.0
+1,E,Rome,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Rome,5,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Rome,5,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Rome,5,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Rome,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Rome,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Rome,10,How is hypertension treated?,1.0,1.0,1.0
+1,E,Rome,10,What causes heart failure?,1.0,1.0,1.0
+1,E,Rome,10,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Rome,10,What medications treat depression?,1.0,1.0,1.0
+1,E,Rome,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Rome,10,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Rome,10,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Rome,10,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Rome,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Rome,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Rome,20,How is hypertension treated?,1.0,1.0,1.0
+1,E,Rome,20,What causes heart failure?,1.0,1.0,1.0
+1,E,Rome,20,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Rome,20,What medications treat depression?,1.0,1.0,1.0
+1,E,Rome,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Rome,20,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Rome,20,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Rome,20,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Rome,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Rome,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Rome,50,How is hypertension treated?,1.0,1.0,1.0
+1,E,Rome,50,What causes heart failure?,1.0,1.0,1.0
+1,E,Rome,50,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Rome,50,What medications treat depression?,1.0,1.0,1.0
+1,E,Rome,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,Rome,50,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Rome,50,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Rome,50,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Rome,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,RomeCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,RomeCombined,1,How is hypertension treated?,1.0,1.0,1.0
+1,E,RomeCombined,1,What causes heart failure?,1.0,1.0,1.0
+1,E,RomeCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,RomeCombined,1,What medications treat depression?,1.0,1.0,1.0
+1,E,RomeCombined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,RomeCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,RomeCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,RomeCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,RomeCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,RomeCombined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,RomeCombined,5,How is hypertension treated?,1.0,1.0,1.0
+1,E,RomeCombined,5,What causes heart failure?,1.0,1.0,1.0
+1,E,RomeCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,RomeCombined,5,What medications treat depression?,1.0,1.0,1.0
+1,E,RomeCombined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+1,E,RomeCombined,5,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,RomeCombined,5,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,RomeCombined,5,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,RomeCombined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,RomeCombined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9556
+1,E,RomeCombined,10,How is hypertension treated?,0.9,0.9999,1.0
+1,E,RomeCombined,10,What causes heart failure?,1.0,1.0,1.0
+1,E,RomeCombined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,RomeCombined,10,What medications treat depression?,1.0,1.0,1.0
+1,E,RomeCombined,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+1,E,RomeCombined,10,What are risk factors for stroke?,1.0,1.0,0.9556
+1,E,RomeCombined,10,How is asthma managed long-term?,1.0,1.0,0.9556
+1,E,RomeCombined,10,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,RomeCombined,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,RomeCombined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+1,E,RomeCombined,20,How is hypertension treated?,1.0,1.0,0.9684
+1,E,RomeCombined,20,What causes heart failure?,1.0,1.0,1.0
+1,E,RomeCombined,20,Describe the symptoms of lupus,1.0,1.0,0.9895
+1,E,RomeCombined,20,What medications treat depression?,1.0,1.0,0.9895
+1,E,RomeCombined,20,How does Alzheimer's disease progress?,1.0,1.0,0.9789
+1,E,RomeCombined,20,What are risk factors for stroke?,0.95,0.9999,0.9263
+1,E,RomeCombined,20,How is asthma managed long-term?,1.0,1.0,0.9579
+1,E,RomeCombined,20,What are signs of kidney disease?,1.0,1.0,0.9895
+1,E,RomeCombined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+1,E,RomeCombined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9673
+1,E,RomeCombined,50,How is hypertension treated?,1.0,1.0,0.9722
+1,E,RomeCombined,50,What causes heart failure?,1.0,1.0,0.9935
+1,E,RomeCombined,50,Describe the symptoms of lupus,0.98,0.9894,0.9643
+1,E,RomeCombined,50,What medications treat depression?,1.0,1.0,0.9804
+1,E,RomeCombined,50,How does Alzheimer's disease progress?,1.0,1.0,0.9804
+1,E,RomeCombined,50,What are risk factors for stroke?,0.96,0.9771,0.9716
+1,E,RomeCombined,50,How is asthma managed long-term?,0.96,0.9814,0.9787
+1,E,RomeCombined,50,What are signs of kidney disease?,0.98,0.9896,0.9847
+1,E,RomeCombined,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9796
+1,E,Ckks,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,Ckks,1,How is hypertension treated?,1.0,1.0,1.0
+1,E,Ckks,1,What causes heart failure?,1.0,1.0,1.0
+1,E,Ckks,1,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Ckks,1,What medications treat depression?,1.0,1.0,1.0
+1,E,Ckks,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+1,E,Ckks,1,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,Ckks,1,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,Ckks,1,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,Ckks,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,Ckks,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+1,E,Ckks,5,How is hypertension treated?,0.8,0.9984,1.0
+1,E,Ckks,5,What causes heart failure?,1.0,0.9997,0.8
+1,E,Ckks,5,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,Ckks,5,What medications treat depression?,1.0,1.0,1.0
+1,E,Ckks,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+1,E,Ckks,5,What are risk factors for stroke?,0.8,0.9887,1.0
+1,E,Ckks,5,How is asthma managed long-term?,1.0,0.9999,0.8
+1,E,Ckks,5,What are signs of kidney disease?,0.8,0.9969,0.8
+1,E,Ckks,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+1,E,Ckks,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+1,E,Ckks,10,How is hypertension treated?,0.9,0.9995,0.8667
+1,E,Ckks,10,What causes heart failure?,0.9,0.9968,0.9111
+1,E,Ckks,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+1,E,Ckks,10,What medications treat depression?,0.9,0.9957,0.9556
+1,E,Ckks,10,How does Alzheimer's disease progress?,0.9,0.9937,0.7333
+1,E,Ckks,10,What are risk factors for stroke?,0.6,0.9925,0.5556
+1,E,Ckks,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+1,E,Ckks,10,What are signs of kidney disease?,0.9,0.9986,0.7778
+1,E,Ckks,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+1,E,Ckks,20,What are the symptoms of type 2 diabetes?,0.8,0.9905,0.6947
+1,E,Ckks,20,How is hypertension treated?,0.8,0.9934,0.8737
+1,E,Ckks,20,What causes heart failure?,0.95,0.9978,0.8
+1,E,Ckks,20,Describe the symptoms of lupus,0.85,0.9978,0.8737
+1,E,Ckks,20,What medications treat depression?,0.8,0.9876,0.7789
+1,E,Ckks,20,How does Alzheimer's disease progress?,0.9,0.9939,0.8105
+1,E,Ckks,20,What are risk factors for stroke?,0.85,0.994,0.5053
+1,E,Ckks,20,How is asthma managed long-term?,0.95,0.9929,0.7474
+1,E,Ckks,20,What are signs of kidney disease?,0.95,0.9983,0.8211
+1,E,Ckks,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8632
+1,E,Ckks,50,What are the symptoms of type 2 diabetes?,0.84,0.9038,0.561
+1,E,Ckks,50,How is hypertension treated?,0.92,0.9554,0.7604
+1,E,Ckks,50,What causes heart failure?,0.94,0.9692,0.8742
+1,E,Ckks,50,Describe the symptoms of lupus,0.72,0.8295,0.7492
+1,E,Ckks,50,What medications treat depression?,0.8,0.8821,0.6974
+1,E,Ckks,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7956
+1,E,Ckks,50,What are risk factors for stroke?,0.9,0.9385,0.6586
+1,E,Ckks,50,How is asthma managed long-term?,0.76,0.8704,0.6785
+1,E,Ckks,50,What are signs of kidney disease?,0.84,0.9087,0.7584
+1,E,Ckks,50,Describe rheumatoid arthritis treatment,0.9,0.945,0.7455
+1,E,CkksCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+1,E,CkksCombined,1,How is hypertension treated?,1.0,1.0,1.0
+1,E,CkksCombined,1,What causes heart failure?,1.0,1.0,1.0
+1,E,CkksCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,CkksCombined,1,What medications treat depression?,1.0,1.0,1.0
+1,E,CkksCombined,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+1,E,CkksCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+1,E,CkksCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+1,E,CkksCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+1,E,CkksCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,CkksCombined,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+1,E,CkksCombined,5,How is hypertension treated?,0.8,0.9984,1.0
+1,E,CkksCombined,5,What causes heart failure?,1.0,0.9997,0.8
+1,E,CkksCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+1,E,CkksCombined,5,What medications treat depression?,1.0,1.0,1.0
+1,E,CkksCombined,5,How does Alzheimer's disease progress?,0.8,0.9917,0.4
+1,E,CkksCombined,5,What are risk factors for stroke?,1.0,0.9996,0.8
+1,E,CkksCombined,5,How is asthma managed long-term?,1.0,0.998,0.6
+1,E,CkksCombined,5,What are signs of kidney disease?,0.8,0.9969,0.8
+1,E,CkksCombined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+1,E,CkksCombined,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+1,E,CkksCombined,10,How is hypertension treated?,0.9,0.9995,0.8667
+1,E,CkksCombined,10,What causes heart failure?,0.9,0.9968,0.9111
+1,E,CkksCombined,10,Describe the symptoms of lupus,0.9,0.9958,0.9556
+1,E,CkksCombined,10,What medications treat depression?,0.9,0.9957,0.9556
+1,E,CkksCombined,10,How does Alzheimer's disease progress?,0.9,0.9934,0.6889
+1,E,CkksCombined,10,What are risk factors for stroke?,0.6,0.9931,0.6
+1,E,CkksCombined,10,How is asthma managed long-term?,1.0,0.9981,0.7778
+1,E,CkksCombined,10,What are signs of kidney disease?,0.9,0.9986,0.7778
+1,E,CkksCombined,10,Describe rheumatoid arthritis treatment,0.9,0.9968,0.9556
+1,E,CkksCombined,20,What are the symptoms of type 2 diabetes?,0.8,0.9905,0.6947
+1,E,CkksCombined,20,How is hypertension treated?,0.8,0.9934,0.8842
+1,E,CkksCombined,20,What causes heart failure?,0.95,0.9978,0.7895
+1,E,CkksCombined,20,Describe the symptoms of lupus,0.85,0.9976,0.8526
+1,E,CkksCombined,20,What medications treat depression?,0.8,0.9875,0.7684
+1,E,CkksCombined,20,How does Alzheimer's disease progress?,0.9,0.9937,0.8
+1,E,CkksCombined,20,What are risk factors for stroke?,0.85,0.9944,0.5474
+1,E,CkksCombined,20,How is asthma managed long-term?,0.95,0.9919,0.7579
+1,E,CkksCombined,20,What are signs of kidney disease?,0.95,0.9983,0.8316
+1,E,CkksCombined,20,Describe rheumatoid arthritis treatment,0.85,0.9957,0.8737
+1,E,CkksCombined,50,What are the symptoms of type 2 diabetes?,0.86,0.915,0.5194
+1,E,CkksCombined,50,How is hypertension treated?,0.92,0.9555,0.772
+1,E,CkksCombined,50,What causes heart failure?,0.94,0.9691,0.8723
+1,E,CkksCombined,50,Describe the symptoms of lupus,0.72,0.8293,0.7333
+1,E,CkksCombined,50,What medications treat depression?,0.78,0.8715,0.6815
+1,E,CkksCombined,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7886
+1,E,CkksCombined,50,What are risk factors for stroke?,0.9,0.9371,0.7091
+1,E,CkksCombined,50,How is asthma managed long-term?,0.76,0.87,0.6814
+1,E,CkksCombined,50,What are signs of kidney disease?,0.84,0.9087,0.7607
+1,E,CkksCombined,50,Describe rheumatoid arthritis treatment,0.9,0.9454,0.7414
+2,E,Scrambling,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Scrambling,1,How is hypertension treated?,1.0,1.0,1.0
+2,E,Scrambling,1,What causes heart failure?,1.0,1.0,1.0
+2,E,Scrambling,1,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Scrambling,1,What medications treat depression?,1.0,1.0,1.0
+2,E,Scrambling,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Scrambling,1,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Scrambling,1,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Scrambling,1,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Scrambling,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Scrambling,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Scrambling,5,How is hypertension treated?,1.0,1.0,1.0
+2,E,Scrambling,5,What causes heart failure?,1.0,1.0,1.0
+2,E,Scrambling,5,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Scrambling,5,What medications treat depression?,1.0,1.0,1.0
+2,E,Scrambling,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Scrambling,5,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Scrambling,5,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Scrambling,5,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Scrambling,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Scrambling,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Scrambling,10,How is hypertension treated?,1.0,1.0,1.0
+2,E,Scrambling,10,What causes heart failure?,1.0,1.0,1.0
+2,E,Scrambling,10,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Scrambling,10,What medications treat depression?,1.0,1.0,1.0
+2,E,Scrambling,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Scrambling,10,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Scrambling,10,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Scrambling,10,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Scrambling,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Scrambling,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Scrambling,20,How is hypertension treated?,1.0,1.0,1.0
+2,E,Scrambling,20,What causes heart failure?,1.0,1.0,1.0
+2,E,Scrambling,20,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Scrambling,20,What medications treat depression?,1.0,1.0,1.0
+2,E,Scrambling,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Scrambling,20,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Scrambling,20,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Scrambling,20,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Scrambling,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Scrambling,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Scrambling,50,How is hypertension treated?,1.0,1.0,1.0
+2,E,Scrambling,50,What causes heart failure?,1.0,1.0,1.0
+2,E,Scrambling,50,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Scrambling,50,What medications treat depression?,1.0,1.0,1.0
+2,E,Scrambling,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Scrambling,50,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Scrambling,50,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Scrambling,50,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Scrambling,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Noise,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Noise,1,How is hypertension treated?,1.0,1.0,1.0
+2,E,Noise,1,What causes heart failure?,1.0,1.0,1.0
+2,E,Noise,1,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Noise,1,What medications treat depression?,1.0,1.0,1.0
+2,E,Noise,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Noise,1,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Noise,1,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Noise,1,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Noise,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Noise,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Noise,5,How is hypertension treated?,1.0,1.0,1.0
+2,E,Noise,5,What causes heart failure?,1.0,0.9999,0.8
+2,E,Noise,5,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Noise,5,What medications treat depression?,1.0,1.0,1.0
+2,E,Noise,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Noise,5,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Noise,5,How is asthma managed long-term?,1.0,0.9999,0.8
+2,E,Noise,5,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Noise,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Noise,10,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9556
+2,E,Noise,10,How is hypertension treated?,0.9,0.9999,1.0
+2,E,Noise,10,What causes heart failure?,1.0,1.0,0.9556
+2,E,Noise,10,Describe the symptoms of lupus,1.0,1.0,0.9556
+2,E,Noise,10,What medications treat depression?,1.0,1.0,1.0
+2,E,Noise,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+2,E,Noise,10,What are risk factors for stroke?,0.9,0.9999,0.9111
+2,E,Noise,10,How is asthma managed long-term?,1.0,1.0,0.9556
+2,E,Noise,10,What are signs of kidney disease?,1.0,1.0,0.9556
+2,E,Noise,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Noise,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+2,E,Noise,20,How is hypertension treated?,0.95,1.0,0.9789
+2,E,Noise,20,What causes heart failure?,1.0,1.0,0.9789
+2,E,Noise,20,Describe the symptoms of lupus,0.95,1.0,0.9789
+2,E,Noise,20,What medications treat depression?,1.0,1.0,1.0
+2,E,Noise,20,How does Alzheimer's disease progress?,1.0,1.0,0.9895
+2,E,Noise,20,What are risk factors for stroke?,1.0,1.0,0.8947
+2,E,Noise,20,How is asthma managed long-term?,1.0,1.0,0.9684
+2,E,Noise,20,What are signs of kidney disease?,1.0,1.0,0.9895
+2,E,Noise,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Noise,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9592
+2,E,Noise,50,How is hypertension treated?,1.0,1.0,0.9739
+2,E,Noise,50,What causes heart failure?,1.0,1.0,0.9837
+2,E,Noise,50,Describe the symptoms of lupus,0.98,0.9893,0.9575
+2,E,Noise,50,What medications treat depression?,0.98,0.9895,0.9762
+2,E,Noise,50,How does Alzheimer's disease progress?,1.0,1.0,0.9755
+2,E,Noise,50,What are risk factors for stroke?,0.96,0.977,0.9752
+2,E,Noise,50,How is asthma managed long-term?,1.0,1.0,0.9739
+2,E,Noise,50,What are signs of kidney disease?,0.98,0.9896,0.9881
+2,E,Noise,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9813
+2,E,Combined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Combined,1,How is hypertension treated?,1.0,1.0,1.0
+2,E,Combined,1,What causes heart failure?,1.0,1.0,1.0
+2,E,Combined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Combined,1,What medications treat depression?,1.0,1.0,1.0
+2,E,Combined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Combined,1,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Combined,1,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Combined,1,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Combined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Combined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Combined,5,How is hypertension treated?,1.0,1.0,1.0
+2,E,Combined,5,What causes heart failure?,1.0,1.0,1.0
+2,E,Combined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Combined,5,What medications treat depression?,1.0,1.0,0.8
+2,E,Combined,5,How does Alzheimer's disease progress?,1.0,0.9999,0.8
+2,E,Combined,5,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Combined,5,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Combined,5,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Combined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Combined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9556
+2,E,Combined,10,How is hypertension treated?,0.9,0.9999,1.0
+2,E,Combined,10,What causes heart failure?,1.0,1.0,1.0
+2,E,Combined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Combined,10,What medications treat depression?,1.0,1.0,0.9556
+2,E,Combined,10,How does Alzheimer's disease progress?,0.9,0.9999,0.9556
+2,E,Combined,10,What are risk factors for stroke?,1.0,1.0,0.9556
+2,E,Combined,10,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Combined,10,What are signs of kidney disease?,1.0,1.0,0.9111
+2,E,Combined,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Combined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+2,E,Combined,20,How is hypertension treated?,0.95,1.0,0.9684
+2,E,Combined,20,What causes heart failure?,1.0,1.0,1.0
+2,E,Combined,20,Describe the symptoms of lupus,1.0,1.0,0.9895
+2,E,Combined,20,What medications treat depression?,1.0,1.0,0.9895
+2,E,Combined,20,How does Alzheimer's disease progress?,1.0,1.0,0.9789
+2,E,Combined,20,What are risk factors for stroke?,1.0,1.0,0.9474
+2,E,Combined,20,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Combined,20,What are signs of kidney disease?,0.95,0.9998,0.9684
+2,E,Combined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+2,E,Combined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9624
+2,E,Combined,50,How is hypertension treated?,0.98,0.9898,0.9711
+2,E,Combined,50,What causes heart failure?,1.0,1.0,0.982
+2,E,Combined,50,Describe the symptoms of lupus,0.98,0.9893,0.9728
+2,E,Combined,50,What medications treat depression?,0.98,0.9894,0.9813
+2,E,Combined,50,How does Alzheimer's disease progress?,1.0,1.0,0.982
+2,E,Combined,50,What are risk factors for stroke?,0.98,0.9886,0.9745
+2,E,Combined,50,How is asthma managed long-term?,0.98,0.9906,0.9898
+2,E,Combined,50,What are signs of kidney disease?,0.98,0.9896,0.9745
+2,E,Combined,50,Describe rheumatoid arthritis treatment,0.98,0.9902,0.9762
+2,E,Rome,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Rome,1,How is hypertension treated?,1.0,1.0,1.0
+2,E,Rome,1,What causes heart failure?,1.0,1.0,1.0
+2,E,Rome,1,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Rome,1,What medications treat depression?,1.0,1.0,1.0
+2,E,Rome,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Rome,1,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Rome,1,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Rome,1,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Rome,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Rome,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Rome,5,How is hypertension treated?,1.0,1.0,1.0
+2,E,Rome,5,What causes heart failure?,1.0,1.0,1.0
+2,E,Rome,5,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Rome,5,What medications treat depression?,1.0,1.0,1.0
+2,E,Rome,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Rome,5,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Rome,5,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Rome,5,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Rome,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Rome,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Rome,10,How is hypertension treated?,1.0,1.0,1.0
+2,E,Rome,10,What causes heart failure?,1.0,1.0,1.0
+2,E,Rome,10,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Rome,10,What medications treat depression?,1.0,1.0,1.0
+2,E,Rome,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Rome,10,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Rome,10,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Rome,10,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Rome,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Rome,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Rome,20,How is hypertension treated?,1.0,1.0,1.0
+2,E,Rome,20,What causes heart failure?,1.0,1.0,1.0
+2,E,Rome,20,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Rome,20,What medications treat depression?,1.0,1.0,1.0
+2,E,Rome,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Rome,20,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Rome,20,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Rome,20,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Rome,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Rome,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Rome,50,How is hypertension treated?,1.0,1.0,1.0
+2,E,Rome,50,What causes heart failure?,1.0,1.0,1.0
+2,E,Rome,50,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Rome,50,What medications treat depression?,1.0,1.0,1.0
+2,E,Rome,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,Rome,50,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Rome,50,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Rome,50,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Rome,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,RomeCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,RomeCombined,1,How is hypertension treated?,1.0,1.0,1.0
+2,E,RomeCombined,1,What causes heart failure?,1.0,1.0,1.0
+2,E,RomeCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,RomeCombined,1,What medications treat depression?,1.0,1.0,1.0
+2,E,RomeCombined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,RomeCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,RomeCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,RomeCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,RomeCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,RomeCombined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,RomeCombined,5,How is hypertension treated?,1.0,1.0,1.0
+2,E,RomeCombined,5,What causes heart failure?,1.0,1.0,1.0
+2,E,RomeCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,RomeCombined,5,What medications treat depression?,1.0,1.0,1.0
+2,E,RomeCombined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+2,E,RomeCombined,5,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,RomeCombined,5,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,RomeCombined,5,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,RomeCombined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,RomeCombined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,RomeCombined,10,How is hypertension treated?,1.0,1.0,1.0
+2,E,RomeCombined,10,What causes heart failure?,1.0,1.0,1.0
+2,E,RomeCombined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,RomeCombined,10,What medications treat depression?,1.0,1.0,1.0
+2,E,RomeCombined,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+2,E,RomeCombined,10,What are risk factors for stroke?,1.0,1.0,0.9556
+2,E,RomeCombined,10,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,RomeCombined,10,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,RomeCombined,10,Describe rheumatoid arthritis treatment,1.0,1.0,0.9556
+2,E,RomeCombined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,RomeCombined,20,How is hypertension treated?,0.95,1.0,0.9579
+2,E,RomeCombined,20,What causes heart failure?,1.0,1.0,0.9895
+2,E,RomeCombined,20,Describe the symptoms of lupus,0.95,1.0,1.0
+2,E,RomeCombined,20,What medications treat depression?,1.0,1.0,0.9895
+2,E,RomeCombined,20,How does Alzheimer's disease progress?,1.0,1.0,0.9895
+2,E,RomeCombined,20,What are risk factors for stroke?,0.95,0.9998,0.9158
+2,E,RomeCombined,20,How is asthma managed long-term?,1.0,1.0,0.9895
+2,E,RomeCombined,20,What are signs of kidney disease?,1.0,1.0,0.9895
+2,E,RomeCombined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+2,E,RomeCombined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9673
+2,E,RomeCombined,50,How is hypertension treated?,1.0,1.0,0.9804
+2,E,RomeCombined,50,What causes heart failure?,1.0,1.0,0.9918
+2,E,RomeCombined,50,Describe the symptoms of lupus,0.96,0.9787,0.9716
+2,E,RomeCombined,50,What medications treat depression?,0.98,0.9895,0.9864
+2,E,RomeCombined,50,How does Alzheimer's disease progress?,1.0,1.0,0.9886
+2,E,RomeCombined,50,What are risk factors for stroke?,0.98,0.9886,0.966
+2,E,RomeCombined,50,How is asthma managed long-term?,1.0,1.0,0.9886
+2,E,RomeCombined,50,What are signs of kidney disease?,0.98,0.9896,0.9881
+2,E,RomeCombined,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9881
+2,E,Ckks,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,Ckks,1,How is hypertension treated?,1.0,1.0,1.0
+2,E,Ckks,1,What causes heart failure?,1.0,1.0,1.0
+2,E,Ckks,1,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Ckks,1,What medications treat depression?,1.0,1.0,1.0
+2,E,Ckks,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+2,E,Ckks,1,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,Ckks,1,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,Ckks,1,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,Ckks,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,Ckks,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+2,E,Ckks,5,How is hypertension treated?,0.8,0.9984,1.0
+2,E,Ckks,5,What causes heart failure?,1.0,0.9997,0.8
+2,E,Ckks,5,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,Ckks,5,What medications treat depression?,1.0,1.0,1.0
+2,E,Ckks,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+2,E,Ckks,5,What are risk factors for stroke?,0.8,0.9887,1.0
+2,E,Ckks,5,How is asthma managed long-term?,1.0,0.9999,0.8
+2,E,Ckks,5,What are signs of kidney disease?,0.8,0.9969,0.8
+2,E,Ckks,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+2,E,Ckks,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+2,E,Ckks,10,How is hypertension treated?,0.9,0.9995,0.8667
+2,E,Ckks,10,What causes heart failure?,0.9,0.9968,0.9111
+2,E,Ckks,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+2,E,Ckks,10,What medications treat depression?,0.9,0.9957,0.9556
+2,E,Ckks,10,How does Alzheimer's disease progress?,0.9,0.9937,0.7333
+2,E,Ckks,10,What are risk factors for stroke?,0.6,0.9925,0.5556
+2,E,Ckks,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+2,E,Ckks,10,What are signs of kidney disease?,0.9,0.9986,0.7778
+2,E,Ckks,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+2,E,Ckks,20,What are the symptoms of type 2 diabetes?,0.8,0.9905,0.6947
+2,E,Ckks,20,How is hypertension treated?,0.8,0.9934,0.8737
+2,E,Ckks,20,What causes heart failure?,0.95,0.9978,0.8
+2,E,Ckks,20,Describe the symptoms of lupus,0.85,0.9978,0.8737
+2,E,Ckks,20,What medications treat depression?,0.8,0.9876,0.7789
+2,E,Ckks,20,How does Alzheimer's disease progress?,0.9,0.9939,0.8105
+2,E,Ckks,20,What are risk factors for stroke?,0.85,0.994,0.5053
+2,E,Ckks,20,How is asthma managed long-term?,0.95,0.9929,0.7474
+2,E,Ckks,20,What are signs of kidney disease?,0.95,0.9983,0.8211
+2,E,Ckks,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8632
+2,E,Ckks,50,What are the symptoms of type 2 diabetes?,0.84,0.9038,0.561
+2,E,Ckks,50,How is hypertension treated?,0.92,0.9554,0.7604
+2,E,Ckks,50,What causes heart failure?,0.94,0.9692,0.8742
+2,E,Ckks,50,Describe the symptoms of lupus,0.72,0.8295,0.7492
+2,E,Ckks,50,What medications treat depression?,0.8,0.8821,0.6974
+2,E,Ckks,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7956
+2,E,Ckks,50,What are risk factors for stroke?,0.9,0.9385,0.6586
+2,E,Ckks,50,How is asthma managed long-term?,0.76,0.8704,0.6785
+2,E,Ckks,50,What are signs of kidney disease?,0.84,0.9087,0.7584
+2,E,Ckks,50,Describe rheumatoid arthritis treatment,0.9,0.945,0.7455
+2,E,CkksCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+2,E,CkksCombined,1,How is hypertension treated?,1.0,1.0,1.0
+2,E,CkksCombined,1,What causes heart failure?,1.0,1.0,1.0
+2,E,CkksCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,CkksCombined,1,What medications treat depression?,1.0,1.0,1.0
+2,E,CkksCombined,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+2,E,CkksCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+2,E,CkksCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+2,E,CkksCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+2,E,CkksCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+2,E,CkksCombined,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+2,E,CkksCombined,5,How is hypertension treated?,0.8,0.9984,1.0
+2,E,CkksCombined,5,What causes heart failure?,1.0,0.9997,0.8
+2,E,CkksCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+2,E,CkksCombined,5,What medications treat depression?,1.0,1.0,1.0
+2,E,CkksCombined,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+2,E,CkksCombined,5,What are risk factors for stroke?,0.8,0.9887,1.0
+2,E,CkksCombined,5,How is asthma managed long-term?,1.0,0.9999,0.8
+2,E,CkksCombined,5,What are signs of kidney disease?,0.8,0.9969,0.8
+2,E,CkksCombined,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+2,E,CkksCombined,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+2,E,CkksCombined,10,How is hypertension treated?,0.9,0.9995,0.8667
+2,E,CkksCombined,10,What causes heart failure?,0.9,0.9968,0.9111
+2,E,CkksCombined,10,Describe the symptoms of lupus,0.9,0.9958,1.0
+2,E,CkksCombined,10,What medications treat depression?,0.9,0.9957,0.9556
+2,E,CkksCombined,10,How does Alzheimer's disease progress?,0.9,0.9937,0.7333
+2,E,CkksCombined,10,What are risk factors for stroke?,0.6,0.9923,0.5556
+2,E,CkksCombined,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+2,E,CkksCombined,10,What are signs of kidney disease?,0.9,0.9986,0.7778
+2,E,CkksCombined,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+2,E,CkksCombined,20,What are the symptoms of type 2 diabetes?,0.8,0.9904,0.6842
+2,E,CkksCombined,20,How is hypertension treated?,0.8,0.9935,0.8842
+2,E,CkksCombined,20,What causes heart failure?,0.95,0.9978,0.7895
+2,E,CkksCombined,20,Describe the symptoms of lupus,0.85,0.9976,0.8632
+2,E,CkksCombined,20,What medications treat depression?,0.8,0.9876,0.7789
+2,E,CkksCombined,20,How does Alzheimer's disease progress?,0.9,0.9939,0.8
+2,E,CkksCombined,20,What are risk factors for stroke?,0.85,0.994,0.5263
+2,E,CkksCombined,20,How is asthma managed long-term?,0.95,0.9929,0.7579
+2,E,CkksCombined,20,What are signs of kidney disease?,0.95,0.9983,0.8211
+2,E,CkksCombined,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8632
+2,E,CkksCombined,50,What are the symptoms of type 2 diabetes?,0.84,0.9038,0.5494
+2,E,CkksCombined,50,How is hypertension treated?,0.92,0.9557,0.7855
+2,E,CkksCombined,50,What causes heart failure?,0.94,0.9692,0.876
+2,E,CkksCombined,50,Describe the symptoms of lupus,0.7,0.8178,0.7546
+2,E,CkksCombined,50,What medications treat depression?,0.78,0.8711,0.6923
+2,E,CkksCombined,50,How does Alzheimer's disease progress?,0.84,0.9246,0.7933
+2,E,CkksCombined,50,What are risk factors for stroke?,0.9,0.9385,0.6646
+2,E,CkksCombined,50,How is asthma managed long-term?,0.76,0.8705,0.6842
+2,E,CkksCombined,50,What are signs of kidney disease?,0.86,0.9197,0.763
+2,E,CkksCombined,50,Describe rheumatoid arthritis treatment,0.9,0.9452,0.7455
+3,E,Scrambling,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Scrambling,1,How is hypertension treated?,1.0,1.0,1.0
+3,E,Scrambling,1,What causes heart failure?,1.0,1.0,1.0
+3,E,Scrambling,1,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Scrambling,1,What medications treat depression?,1.0,1.0,1.0
+3,E,Scrambling,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Scrambling,1,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Scrambling,1,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Scrambling,1,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Scrambling,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Scrambling,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Scrambling,5,How is hypertension treated?,1.0,1.0,1.0
+3,E,Scrambling,5,What causes heart failure?,1.0,1.0,1.0
+3,E,Scrambling,5,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Scrambling,5,What medications treat depression?,1.0,1.0,1.0
+3,E,Scrambling,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Scrambling,5,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Scrambling,5,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Scrambling,5,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Scrambling,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Scrambling,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Scrambling,10,How is hypertension treated?,1.0,1.0,1.0
+3,E,Scrambling,10,What causes heart failure?,1.0,1.0,1.0
+3,E,Scrambling,10,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Scrambling,10,What medications treat depression?,1.0,1.0,1.0
+3,E,Scrambling,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Scrambling,10,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Scrambling,10,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Scrambling,10,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Scrambling,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Scrambling,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Scrambling,20,How is hypertension treated?,1.0,1.0,1.0
+3,E,Scrambling,20,What causes heart failure?,1.0,1.0,1.0
+3,E,Scrambling,20,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Scrambling,20,What medications treat depression?,1.0,1.0,1.0
+3,E,Scrambling,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Scrambling,20,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Scrambling,20,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Scrambling,20,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Scrambling,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Scrambling,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Scrambling,50,How is hypertension treated?,1.0,1.0,1.0
+3,E,Scrambling,50,What causes heart failure?,1.0,1.0,1.0
+3,E,Scrambling,50,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Scrambling,50,What medications treat depression?,1.0,1.0,1.0
+3,E,Scrambling,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Scrambling,50,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Scrambling,50,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Scrambling,50,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Scrambling,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Noise,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Noise,1,How is hypertension treated?,1.0,1.0,1.0
+3,E,Noise,1,What causes heart failure?,1.0,1.0,1.0
+3,E,Noise,1,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Noise,1,What medications treat depression?,1.0,1.0,1.0
+3,E,Noise,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Noise,1,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Noise,1,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Noise,1,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Noise,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Noise,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Noise,5,How is hypertension treated?,1.0,1.0,1.0
+3,E,Noise,5,What causes heart failure?,1.0,1.0,1.0
+3,E,Noise,5,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Noise,5,What medications treat depression?,1.0,1.0,1.0
+3,E,Noise,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Noise,5,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Noise,5,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Noise,5,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Noise,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Noise,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Noise,10,How is hypertension treated?,0.9,0.9999,1.0
+3,E,Noise,10,What causes heart failure?,1.0,1.0,1.0
+3,E,Noise,10,Describe the symptoms of lupus,1.0,1.0,0.9556
+3,E,Noise,10,What medications treat depression?,1.0,1.0,1.0
+3,E,Noise,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+3,E,Noise,10,What are risk factors for stroke?,0.9,0.9997,0.9111
+3,E,Noise,10,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Noise,10,What are signs of kidney disease?,1.0,1.0,0.9556
+3,E,Noise,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Noise,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Noise,20,How is hypertension treated?,1.0,1.0,0.9789
+3,E,Noise,20,What causes heart failure?,1.0,1.0,0.9789
+3,E,Noise,20,Describe the symptoms of lupus,1.0,1.0,0.9895
+3,E,Noise,20,What medications treat depression?,1.0,1.0,1.0
+3,E,Noise,20,How does Alzheimer's disease progress?,1.0,1.0,0.9895
+3,E,Noise,20,What are risk factors for stroke?,0.95,0.9999,0.9053
+3,E,Noise,20,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Noise,20,What are signs of kidney disease?,1.0,1.0,0.9789
+3,E,Noise,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+3,E,Noise,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9673
+3,E,Noise,50,How is hypertension treated?,0.98,0.9899,0.9779
+3,E,Noise,50,What causes heart failure?,1.0,1.0,0.9771
+3,E,Noise,50,Describe the symptoms of lupus,0.98,0.9894,0.9711
+3,E,Noise,50,What medications treat depression?,1.0,1.0,0.9869
+3,E,Noise,50,How does Alzheimer's disease progress?,0.98,0.9917,0.9898
+3,E,Noise,50,What are risk factors for stroke?,0.98,0.9886,0.9643
+3,E,Noise,50,How is asthma managed long-term?,0.98,0.9907,0.9898
+3,E,Noise,50,What are signs of kidney disease?,0.96,0.9792,0.984
+3,E,Noise,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9813
+3,E,Combined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Combined,1,How is hypertension treated?,1.0,1.0,1.0
+3,E,Combined,1,What causes heart failure?,1.0,1.0,1.0
+3,E,Combined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Combined,1,What medications treat depression?,1.0,1.0,1.0
+3,E,Combined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Combined,1,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Combined,1,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Combined,1,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Combined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Combined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Combined,5,How is hypertension treated?,1.0,1.0,1.0
+3,E,Combined,5,What causes heart failure?,1.0,1.0,1.0
+3,E,Combined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Combined,5,What medications treat depression?,1.0,1.0,1.0
+3,E,Combined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Combined,5,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Combined,5,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Combined,5,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Combined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Combined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Combined,10,How is hypertension treated?,0.9,0.9998,1.0
+3,E,Combined,10,What causes heart failure?,1.0,1.0,1.0
+3,E,Combined,10,Describe the symptoms of lupus,1.0,1.0,0.9556
+3,E,Combined,10,What medications treat depression?,1.0,1.0,1.0
+3,E,Combined,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+3,E,Combined,10,What are risk factors for stroke?,0.9,0.9999,0.9111
+3,E,Combined,10,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Combined,10,What are signs of kidney disease?,1.0,1.0,0.9556
+3,E,Combined,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Combined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+3,E,Combined,20,How is hypertension treated?,0.95,1.0,0.9579
+3,E,Combined,20,What causes heart failure?,1.0,1.0,1.0
+3,E,Combined,20,Describe the symptoms of lupus,1.0,1.0,0.9895
+3,E,Combined,20,What medications treat depression?,1.0,1.0,0.9789
+3,E,Combined,20,How does Alzheimer's disease progress?,0.95,0.9999,0.9895
+3,E,Combined,20,What are risk factors for stroke?,1.0,1.0,0.9158
+3,E,Combined,20,How is asthma managed long-term?,1.0,1.0,0.9789
+3,E,Combined,20,What are signs of kidney disease?,1.0,1.0,0.9789
+3,E,Combined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+3,E,Combined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9624
+3,E,Combined,50,How is hypertension treated?,0.98,0.9898,0.9643
+3,E,Combined,50,What causes heart failure?,1.0,1.0,0.9853
+3,E,Combined,50,Describe the symptoms of lupus,1.0,1.0,0.9673
+3,E,Combined,50,What medications treat depression?,1.0,1.0,0.9722
+3,E,Combined,50,How does Alzheimer's disease progress?,1.0,1.0,0.9755
+3,E,Combined,50,What are risk factors for stroke?,0.98,0.9886,0.9728
+3,E,Combined,50,How is asthma managed long-term?,1.0,1.0,0.9869
+3,E,Combined,50,What are signs of kidney disease?,0.96,0.9792,0.9911
+3,E,Combined,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.983
+3,E,Rome,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Rome,1,How is hypertension treated?,1.0,1.0,1.0
+3,E,Rome,1,What causes heart failure?,1.0,1.0,1.0
+3,E,Rome,1,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Rome,1,What medications treat depression?,1.0,1.0,1.0
+3,E,Rome,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Rome,1,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Rome,1,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Rome,1,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Rome,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Rome,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Rome,5,How is hypertension treated?,1.0,1.0,1.0
+3,E,Rome,5,What causes heart failure?,1.0,1.0,1.0
+3,E,Rome,5,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Rome,5,What medications treat depression?,1.0,1.0,1.0
+3,E,Rome,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Rome,5,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Rome,5,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Rome,5,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Rome,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Rome,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Rome,10,How is hypertension treated?,1.0,1.0,1.0
+3,E,Rome,10,What causes heart failure?,1.0,1.0,1.0
+3,E,Rome,10,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Rome,10,What medications treat depression?,1.0,1.0,1.0
+3,E,Rome,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Rome,10,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Rome,10,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Rome,10,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Rome,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Rome,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Rome,20,How is hypertension treated?,1.0,1.0,1.0
+3,E,Rome,20,What causes heart failure?,1.0,1.0,1.0
+3,E,Rome,20,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Rome,20,What medications treat depression?,1.0,1.0,1.0
+3,E,Rome,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Rome,20,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Rome,20,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Rome,20,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Rome,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Rome,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Rome,50,How is hypertension treated?,1.0,1.0,1.0
+3,E,Rome,50,What causes heart failure?,1.0,1.0,1.0
+3,E,Rome,50,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Rome,50,What medications treat depression?,1.0,1.0,1.0
+3,E,Rome,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,Rome,50,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Rome,50,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Rome,50,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Rome,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,RomeCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,RomeCombined,1,How is hypertension treated?,1.0,1.0,1.0
+3,E,RomeCombined,1,What causes heart failure?,1.0,1.0,1.0
+3,E,RomeCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,RomeCombined,1,What medications treat depression?,1.0,1.0,1.0
+3,E,RomeCombined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,RomeCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,RomeCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,RomeCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,RomeCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,RomeCombined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,RomeCombined,5,How is hypertension treated?,1.0,1.0,1.0
+3,E,RomeCombined,5,What causes heart failure?,1.0,1.0,1.0
+3,E,RomeCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,RomeCombined,5,What medications treat depression?,1.0,1.0,1.0
+3,E,RomeCombined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+3,E,RomeCombined,5,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,RomeCombined,5,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,RomeCombined,5,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,RomeCombined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,RomeCombined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,RomeCombined,10,How is hypertension treated?,0.9,0.9998,1.0
+3,E,RomeCombined,10,What causes heart failure?,1.0,1.0,1.0
+3,E,RomeCombined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,RomeCombined,10,What medications treat depression?,1.0,1.0,1.0
+3,E,RomeCombined,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+3,E,RomeCombined,10,What are risk factors for stroke?,1.0,1.0,0.9556
+3,E,RomeCombined,10,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,RomeCombined,10,What are signs of kidney disease?,1.0,1.0,0.9111
+3,E,RomeCombined,10,Describe rheumatoid arthritis treatment,1.0,1.0,0.9556
+3,E,RomeCombined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,RomeCombined,20,How is hypertension treated?,0.95,0.9999,0.9368
+3,E,RomeCombined,20,What causes heart failure?,1.0,1.0,1.0
+3,E,RomeCombined,20,Describe the symptoms of lupus,0.95,1.0,1.0
+3,E,RomeCombined,20,What medications treat depression?,1.0,1.0,1.0
+3,E,RomeCombined,20,How does Alzheimer's disease progress?,1.0,1.0,0.9895
+3,E,RomeCombined,20,What are risk factors for stroke?,0.95,0.9998,0.9579
+3,E,RomeCombined,20,How is asthma managed long-term?,1.0,1.0,0.9895
+3,E,RomeCombined,20,What are signs of kidney disease?,1.0,1.0,0.9579
+3,E,RomeCombined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9684
+3,E,RomeCombined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9853
+3,E,RomeCombined,50,How is hypertension treated?,1.0,1.0,0.9788
+3,E,RomeCombined,50,What causes heart failure?,1.0,1.0,0.9837
+3,E,RomeCombined,50,Describe the symptoms of lupus,0.98,0.989,0.9728
+3,E,RomeCombined,50,What medications treat depression?,1.0,1.0,0.9804
+3,E,RomeCombined,50,How does Alzheimer's disease progress?,1.0,1.0,0.982
+3,E,RomeCombined,50,What are risk factors for stroke?,1.0,1.0,0.9739
+3,E,RomeCombined,50,How is asthma managed long-term?,1.0,1.0,0.982
+3,E,RomeCombined,50,What are signs of kidney disease?,0.98,0.9896,0.9796
+3,E,RomeCombined,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9813
+3,E,Ckks,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,Ckks,1,How is hypertension treated?,1.0,1.0,1.0
+3,E,Ckks,1,What causes heart failure?,1.0,1.0,1.0
+3,E,Ckks,1,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Ckks,1,What medications treat depression?,1.0,1.0,1.0
+3,E,Ckks,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+3,E,Ckks,1,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,Ckks,1,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,Ckks,1,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,Ckks,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,Ckks,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+3,E,Ckks,5,How is hypertension treated?,0.8,0.9984,1.0
+3,E,Ckks,5,What causes heart failure?,1.0,0.9997,0.8
+3,E,Ckks,5,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,Ckks,5,What medications treat depression?,1.0,1.0,1.0
+3,E,Ckks,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+3,E,Ckks,5,What are risk factors for stroke?,0.8,0.9887,1.0
+3,E,Ckks,5,How is asthma managed long-term?,1.0,0.9999,0.8
+3,E,Ckks,5,What are signs of kidney disease?,0.8,0.9969,0.8
+3,E,Ckks,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+3,E,Ckks,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+3,E,Ckks,10,How is hypertension treated?,0.9,0.9995,0.8667
+3,E,Ckks,10,What causes heart failure?,0.9,0.9968,0.9111
+3,E,Ckks,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+3,E,Ckks,10,What medications treat depression?,0.9,0.9957,0.9556
+3,E,Ckks,10,How does Alzheimer's disease progress?,0.9,0.9937,0.7333
+3,E,Ckks,10,What are risk factors for stroke?,0.6,0.9925,0.5556
+3,E,Ckks,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+3,E,Ckks,10,What are signs of kidney disease?,0.9,0.9986,0.7778
+3,E,Ckks,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+3,E,Ckks,20,What are the symptoms of type 2 diabetes?,0.8,0.9905,0.6947
+3,E,Ckks,20,How is hypertension treated?,0.8,0.9934,0.8737
+3,E,Ckks,20,What causes heart failure?,0.95,0.9978,0.8
+3,E,Ckks,20,Describe the symptoms of lupus,0.85,0.9978,0.8737
+3,E,Ckks,20,What medications treat depression?,0.8,0.9876,0.7789
+3,E,Ckks,20,How does Alzheimer's disease progress?,0.9,0.9939,0.8105
+3,E,Ckks,20,What are risk factors for stroke?,0.85,0.994,0.5053
+3,E,Ckks,20,How is asthma managed long-term?,0.95,0.9929,0.7474
+3,E,Ckks,20,What are signs of kidney disease?,0.95,0.9983,0.8211
+3,E,Ckks,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8632
+3,E,Ckks,50,What are the symptoms of type 2 diabetes?,0.84,0.9038,0.561
+3,E,Ckks,50,How is hypertension treated?,0.92,0.9554,0.7604
+3,E,Ckks,50,What causes heart failure?,0.94,0.9692,0.8742
+3,E,Ckks,50,Describe the symptoms of lupus,0.72,0.8295,0.7492
+3,E,Ckks,50,What medications treat depression?,0.8,0.8821,0.6974
+3,E,Ckks,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7956
+3,E,Ckks,50,What are risk factors for stroke?,0.9,0.9385,0.6586
+3,E,Ckks,50,How is asthma managed long-term?,0.76,0.8704,0.6785
+3,E,Ckks,50,What are signs of kidney disease?,0.84,0.9087,0.7584
+3,E,Ckks,50,Describe rheumatoid arthritis treatment,0.9,0.945,0.7455
+3,E,CkksCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+3,E,CkksCombined,1,How is hypertension treated?,1.0,1.0,1.0
+3,E,CkksCombined,1,What causes heart failure?,1.0,1.0,1.0
+3,E,CkksCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,CkksCombined,1,What medications treat depression?,1.0,1.0,1.0
+3,E,CkksCombined,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+3,E,CkksCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+3,E,CkksCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+3,E,CkksCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+3,E,CkksCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+3,E,CkksCombined,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+3,E,CkksCombined,5,How is hypertension treated?,0.8,0.9984,1.0
+3,E,CkksCombined,5,What causes heart failure?,1.0,0.9997,0.8
+3,E,CkksCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+3,E,CkksCombined,5,What medications treat depression?,1.0,1.0,1.0
+3,E,CkksCombined,5,How does Alzheimer's disease progress?,0.8,0.9917,0.4
+3,E,CkksCombined,5,What are risk factors for stroke?,0.8,0.9887,1.0
+3,E,CkksCombined,5,How is asthma managed long-term?,1.0,0.998,0.6
+3,E,CkksCombined,5,What are signs of kidney disease?,0.8,0.9977,1.0
+3,E,CkksCombined,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+3,E,CkksCombined,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+3,E,CkksCombined,10,How is hypertension treated?,0.9,0.9995,0.8667
+3,E,CkksCombined,10,What causes heart failure?,0.9,0.9968,0.9111
+3,E,CkksCombined,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+3,E,CkksCombined,10,What medications treat depression?,0.9,0.9957,0.9556
+3,E,CkksCombined,10,How does Alzheimer's disease progress?,0.9,0.9934,0.6889
+3,E,CkksCombined,10,What are risk factors for stroke?,0.6,0.9923,0.5556
+3,E,CkksCombined,10,How is asthma managed long-term?,1.0,0.9981,0.7778
+3,E,CkksCombined,10,What are signs of kidney disease?,0.9,0.9992,0.8222
+3,E,CkksCombined,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+3,E,CkksCombined,20,What are the symptoms of type 2 diabetes?,0.8,0.9904,0.6947
+3,E,CkksCombined,20,How is hypertension treated?,0.8,0.9934,0.8737
+3,E,CkksCombined,20,What causes heart failure?,0.95,0.9978,0.7895
+3,E,CkksCombined,20,Describe the symptoms of lupus,0.85,0.9978,0.8737
+3,E,CkksCombined,20,What medications treat depression?,0.8,0.9875,0.7579
+3,E,CkksCombined,20,How does Alzheimer's disease progress?,0.9,0.9937,0.8
+3,E,CkksCombined,20,What are risk factors for stroke?,0.85,0.9939,0.5053
+3,E,CkksCombined,20,How is asthma managed long-term?,0.95,0.9918,0.7368
+3,E,CkksCombined,20,What are signs of kidney disease?,0.95,0.9988,0.8316
+3,E,CkksCombined,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8526
+3,E,CkksCombined,50,What are the symptoms of type 2 diabetes?,0.84,0.9035,0.5494
+3,E,CkksCombined,50,How is hypertension treated?,0.92,0.9554,0.7623
+3,E,CkksCombined,50,What causes heart failure?,0.94,0.9691,0.8723
+3,E,CkksCombined,50,Describe the symptoms of lupus,0.72,0.8299,0.746
+3,E,CkksCombined,50,What medications treat depression?,0.8,0.8824,0.6923
+3,E,CkksCombined,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7933
+3,E,CkksCombined,50,What are risk factors for stroke?,0.9,0.9384,0.6626
+3,E,CkksCombined,50,How is asthma managed long-term?,0.76,0.8696,0.67
+3,E,CkksCombined,50,What are signs of kidney disease?,0.84,0.9091,0.7747
+3,E,CkksCombined,50,Describe rheumatoid arthritis treatment,0.9,0.9451,0.7475
+4,E,Scrambling,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Scrambling,1,How is hypertension treated?,1.0,1.0,1.0
+4,E,Scrambling,1,What causes heart failure?,1.0,1.0,1.0
+4,E,Scrambling,1,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Scrambling,1,What medications treat depression?,1.0,1.0,1.0
+4,E,Scrambling,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Scrambling,1,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Scrambling,1,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Scrambling,1,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Scrambling,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Scrambling,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Scrambling,5,How is hypertension treated?,1.0,1.0,1.0
+4,E,Scrambling,5,What causes heart failure?,1.0,1.0,1.0
+4,E,Scrambling,5,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Scrambling,5,What medications treat depression?,1.0,1.0,1.0
+4,E,Scrambling,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Scrambling,5,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Scrambling,5,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Scrambling,5,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Scrambling,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Scrambling,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Scrambling,10,How is hypertension treated?,1.0,1.0,1.0
+4,E,Scrambling,10,What causes heart failure?,1.0,1.0,1.0
+4,E,Scrambling,10,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Scrambling,10,What medications treat depression?,1.0,1.0,1.0
+4,E,Scrambling,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Scrambling,10,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Scrambling,10,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Scrambling,10,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Scrambling,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Scrambling,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Scrambling,20,How is hypertension treated?,1.0,1.0,1.0
+4,E,Scrambling,20,What causes heart failure?,1.0,1.0,1.0
+4,E,Scrambling,20,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Scrambling,20,What medications treat depression?,1.0,1.0,1.0
+4,E,Scrambling,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Scrambling,20,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Scrambling,20,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Scrambling,20,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Scrambling,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Scrambling,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Scrambling,50,How is hypertension treated?,1.0,1.0,1.0
+4,E,Scrambling,50,What causes heart failure?,1.0,1.0,1.0
+4,E,Scrambling,50,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Scrambling,50,What medications treat depression?,1.0,1.0,1.0
+4,E,Scrambling,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Scrambling,50,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Scrambling,50,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Scrambling,50,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Scrambling,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Noise,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Noise,1,How is hypertension treated?,1.0,1.0,1.0
+4,E,Noise,1,What causes heart failure?,1.0,1.0,1.0
+4,E,Noise,1,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Noise,1,What medications treat depression?,1.0,1.0,1.0
+4,E,Noise,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Noise,1,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Noise,1,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Noise,1,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Noise,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Noise,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Noise,5,How is hypertension treated?,1.0,1.0,1.0
+4,E,Noise,5,What causes heart failure?,1.0,1.0,1.0
+4,E,Noise,5,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Noise,5,What medications treat depression?,1.0,1.0,0.8
+4,E,Noise,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Noise,5,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Noise,5,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Noise,5,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Noise,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Noise,10,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9556
+4,E,Noise,10,How is hypertension treated?,0.9,0.9998,1.0
+4,E,Noise,10,What causes heart failure?,1.0,1.0,0.9556
+4,E,Noise,10,Describe the symptoms of lupus,1.0,1.0,0.9556
+4,E,Noise,10,What medications treat depression?,1.0,1.0,0.9111
+4,E,Noise,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Noise,10,What are risk factors for stroke?,0.9,0.9999,1.0
+4,E,Noise,10,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Noise,10,What are signs of kidney disease?,0.9,0.9994,1.0
+4,E,Noise,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Noise,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+4,E,Noise,20,How is hypertension treated?,1.0,1.0,0.9368
+4,E,Noise,20,What causes heart failure?,1.0,1.0,0.9789
+4,E,Noise,20,Describe the symptoms of lupus,0.95,1.0,0.9895
+4,E,Noise,20,What medications treat depression?,1.0,1.0,0.9579
+4,E,Noise,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Noise,20,What are risk factors for stroke?,0.95,0.9999,0.9053
+4,E,Noise,20,How is asthma managed long-term?,1.0,1.0,0.9895
+4,E,Noise,20,What are signs of kidney disease?,0.95,0.9999,0.9895
+4,E,Noise,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+4,E,Noise,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.951
+4,E,Noise,50,How is hypertension treated?,0.98,0.9899,0.9694
+4,E,Noise,50,What causes heart failure?,0.98,0.9908,0.9745
+4,E,Noise,50,Describe the symptoms of lupus,0.98,0.9893,0.9609
+4,E,Noise,50,What medications treat depression?,0.98,0.9895,0.9711
+4,E,Noise,50,How does Alzheimer's disease progress?,1.0,1.0,0.9886
+4,E,Noise,50,What are risk factors for stroke?,0.98,0.9886,0.966
+4,E,Noise,50,How is asthma managed long-term?,1.0,1.0,0.9837
+4,E,Noise,50,What are signs of kidney disease?,0.98,0.9896,0.9796
+4,E,Noise,50,Describe rheumatoid arthritis treatment,1.0,1.0,0.9837
+4,E,Combined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Combined,1,How is hypertension treated?,1.0,1.0,1.0
+4,E,Combined,1,What causes heart failure?,1.0,1.0,1.0
+4,E,Combined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Combined,1,What medications treat depression?,1.0,1.0,1.0
+4,E,Combined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Combined,1,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Combined,1,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Combined,1,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Combined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Combined,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+4,E,Combined,5,How is hypertension treated?,1.0,1.0,1.0
+4,E,Combined,5,What causes heart failure?,1.0,1.0,1.0
+4,E,Combined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Combined,5,What medications treat depression?,1.0,1.0,1.0
+4,E,Combined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Combined,5,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Combined,5,How is asthma managed long-term?,1.0,0.9999,0.8
+4,E,Combined,5,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Combined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Combined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9111
+4,E,Combined,10,How is hypertension treated?,0.9,0.9998,1.0
+4,E,Combined,10,What causes heart failure?,1.0,1.0,1.0
+4,E,Combined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Combined,10,What medications treat depression?,1.0,1.0,1.0
+4,E,Combined,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Combined,10,What are risk factors for stroke?,0.9,0.9997,0.9111
+4,E,Combined,10,How is asthma managed long-term?,1.0,1.0,0.9556
+4,E,Combined,10,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Combined,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Combined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+4,E,Combined,20,How is hypertension treated?,0.95,0.9998,0.9579
+4,E,Combined,20,What causes heart failure?,1.0,1.0,0.9895
+4,E,Combined,20,Describe the symptoms of lupus,1.0,1.0,0.9895
+4,E,Combined,20,What medications treat depression?,1.0,1.0,1.0
+4,E,Combined,20,How does Alzheimer's disease progress?,0.95,0.9999,0.9895
+4,E,Combined,20,What are risk factors for stroke?,1.0,1.0,0.9158
+4,E,Combined,20,How is asthma managed long-term?,1.0,1.0,0.9684
+4,E,Combined,20,What are signs of kidney disease?,1.0,1.0,0.9684
+4,E,Combined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+4,E,Combined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9576
+4,E,Combined,50,How is hypertension treated?,1.0,1.0,0.969
+4,E,Combined,50,What causes heart failure?,1.0,1.0,0.9902
+4,E,Combined,50,Describe the symptoms of lupus,0.98,0.9894,0.9694
+4,E,Combined,50,What medications treat depression?,0.98,0.9895,0.9796
+4,E,Combined,50,How does Alzheimer's disease progress?,1.0,1.0,0.9869
+4,E,Combined,50,What are risk factors for stroke?,0.98,0.9886,0.9728
+4,E,Combined,50,How is asthma managed long-term?,0.98,0.9906,0.9864
+4,E,Combined,50,What are signs of kidney disease?,0.98,0.9896,0.9813
+4,E,Combined,50,Describe rheumatoid arthritis treatment,1.0,1.0,0.9886
+4,E,Rome,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Rome,1,How is hypertension treated?,1.0,1.0,1.0
+4,E,Rome,1,What causes heart failure?,1.0,1.0,1.0
+4,E,Rome,1,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Rome,1,What medications treat depression?,1.0,1.0,1.0
+4,E,Rome,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Rome,1,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Rome,1,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Rome,1,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Rome,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Rome,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Rome,5,How is hypertension treated?,1.0,1.0,1.0
+4,E,Rome,5,What causes heart failure?,1.0,1.0,1.0
+4,E,Rome,5,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Rome,5,What medications treat depression?,1.0,1.0,1.0
+4,E,Rome,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Rome,5,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Rome,5,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Rome,5,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Rome,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Rome,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Rome,10,How is hypertension treated?,1.0,1.0,1.0
+4,E,Rome,10,What causes heart failure?,1.0,1.0,1.0
+4,E,Rome,10,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Rome,10,What medications treat depression?,1.0,1.0,1.0
+4,E,Rome,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Rome,10,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Rome,10,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Rome,10,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Rome,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Rome,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Rome,20,How is hypertension treated?,1.0,1.0,1.0
+4,E,Rome,20,What causes heart failure?,1.0,1.0,1.0
+4,E,Rome,20,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Rome,20,What medications treat depression?,1.0,1.0,1.0
+4,E,Rome,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Rome,20,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Rome,20,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Rome,20,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Rome,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Rome,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Rome,50,How is hypertension treated?,1.0,1.0,1.0
+4,E,Rome,50,What causes heart failure?,1.0,1.0,1.0
+4,E,Rome,50,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Rome,50,What medications treat depression?,1.0,1.0,1.0
+4,E,Rome,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,Rome,50,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Rome,50,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Rome,50,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Rome,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,RomeCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,RomeCombined,1,How is hypertension treated?,1.0,1.0,1.0
+4,E,RomeCombined,1,What causes heart failure?,1.0,1.0,1.0
+4,E,RomeCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,RomeCombined,1,What medications treat depression?,1.0,1.0,1.0
+4,E,RomeCombined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,RomeCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,RomeCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,RomeCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,RomeCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,RomeCombined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,RomeCombined,5,How is hypertension treated?,1.0,1.0,1.0
+4,E,RomeCombined,5,What causes heart failure?,1.0,1.0,1.0
+4,E,RomeCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,RomeCombined,5,What medications treat depression?,1.0,1.0,1.0
+4,E,RomeCombined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+4,E,RomeCombined,5,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,RomeCombined,5,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,RomeCombined,5,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,RomeCombined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,RomeCombined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9111
+4,E,RomeCombined,10,How is hypertension treated?,0.9,0.9999,1.0
+4,E,RomeCombined,10,What causes heart failure?,1.0,1.0,1.0
+4,E,RomeCombined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,RomeCombined,10,What medications treat depression?,1.0,1.0,1.0
+4,E,RomeCombined,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+4,E,RomeCombined,10,What are risk factors for stroke?,1.0,1.0,0.9556
+4,E,RomeCombined,10,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,RomeCombined,10,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,RomeCombined,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,RomeCombined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+4,E,RomeCombined,20,How is hypertension treated?,0.95,0.9998,0.9684
+4,E,RomeCombined,20,What causes heart failure?,1.0,1.0,0.9895
+4,E,RomeCombined,20,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,RomeCombined,20,What medications treat depression?,1.0,1.0,1.0
+4,E,RomeCombined,20,How does Alzheimer's disease progress?,1.0,1.0,0.9789
+4,E,RomeCombined,20,What are risk factors for stroke?,1.0,1.0,0.9263
+4,E,RomeCombined,20,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,RomeCombined,20,What are signs of kidney disease?,1.0,1.0,0.9895
+4,E,RomeCombined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+4,E,RomeCombined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9559
+4,E,RomeCombined,50,How is hypertension treated?,1.0,1.0,0.969
+4,E,RomeCombined,50,What causes heart failure?,1.0,1.0,0.9886
+4,E,RomeCombined,50,Describe the symptoms of lupus,0.98,0.9894,0.9779
+4,E,RomeCombined,50,What medications treat depression?,1.0,1.0,0.9853
+4,E,RomeCombined,50,How does Alzheimer's disease progress?,1.0,1.0,0.9804
+4,E,RomeCombined,50,What are risk factors for stroke?,0.98,0.9885,0.9711
+4,E,RomeCombined,50,How is asthma managed long-term?,0.98,0.9907,0.9864
+4,E,RomeCombined,50,What are signs of kidney disease?,0.96,0.9792,0.9894
+4,E,RomeCombined,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9864
+4,E,Ckks,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,Ckks,1,How is hypertension treated?,1.0,1.0,1.0
+4,E,Ckks,1,What causes heart failure?,1.0,1.0,1.0
+4,E,Ckks,1,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Ckks,1,What medications treat depression?,1.0,1.0,1.0
+4,E,Ckks,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+4,E,Ckks,1,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,Ckks,1,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,Ckks,1,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,Ckks,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,Ckks,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+4,E,Ckks,5,How is hypertension treated?,0.8,0.9984,1.0
+4,E,Ckks,5,What causes heart failure?,1.0,0.9997,0.8
+4,E,Ckks,5,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,Ckks,5,What medications treat depression?,1.0,1.0,1.0
+4,E,Ckks,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+4,E,Ckks,5,What are risk factors for stroke?,0.8,0.9887,1.0
+4,E,Ckks,5,How is asthma managed long-term?,1.0,0.9999,0.8
+4,E,Ckks,5,What are signs of kidney disease?,0.8,0.9969,0.8
+4,E,Ckks,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+4,E,Ckks,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+4,E,Ckks,10,How is hypertension treated?,0.9,0.9995,0.8667
+4,E,Ckks,10,What causes heart failure?,0.9,0.9968,0.9111
+4,E,Ckks,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+4,E,Ckks,10,What medications treat depression?,0.9,0.9957,0.9556
+4,E,Ckks,10,How does Alzheimer's disease progress?,0.9,0.9937,0.7333
+4,E,Ckks,10,What are risk factors for stroke?,0.6,0.9925,0.5556
+4,E,Ckks,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+4,E,Ckks,10,What are signs of kidney disease?,0.9,0.9986,0.7778
+4,E,Ckks,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+4,E,Ckks,20,What are the symptoms of type 2 diabetes?,0.8,0.9905,0.6947
+4,E,Ckks,20,How is hypertension treated?,0.8,0.9934,0.8737
+4,E,Ckks,20,What causes heart failure?,0.95,0.9978,0.8
+4,E,Ckks,20,Describe the symptoms of lupus,0.85,0.9978,0.8737
+4,E,Ckks,20,What medications treat depression?,0.8,0.9876,0.7789
+4,E,Ckks,20,How does Alzheimer's disease progress?,0.9,0.9939,0.8105
+4,E,Ckks,20,What are risk factors for stroke?,0.85,0.994,0.5053
+4,E,Ckks,20,How is asthma managed long-term?,0.95,0.9929,0.7474
+4,E,Ckks,20,What are signs of kidney disease?,0.95,0.9983,0.8211
+4,E,Ckks,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8632
+4,E,Ckks,50,What are the symptoms of type 2 diabetes?,0.84,0.9038,0.561
+4,E,Ckks,50,How is hypertension treated?,0.92,0.9554,0.7604
+4,E,Ckks,50,What causes heart failure?,0.94,0.9692,0.8742
+4,E,Ckks,50,Describe the symptoms of lupus,0.72,0.8295,0.7492
+4,E,Ckks,50,What medications treat depression?,0.8,0.8821,0.6974
+4,E,Ckks,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7956
+4,E,Ckks,50,What are risk factors for stroke?,0.9,0.9385,0.6586
+4,E,Ckks,50,How is asthma managed long-term?,0.76,0.8704,0.6785
+4,E,Ckks,50,What are signs of kidney disease?,0.84,0.9087,0.7584
+4,E,Ckks,50,Describe rheumatoid arthritis treatment,0.9,0.945,0.7455
+4,E,CkksCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+4,E,CkksCombined,1,How is hypertension treated?,1.0,1.0,1.0
+4,E,CkksCombined,1,What causes heart failure?,1.0,1.0,1.0
+4,E,CkksCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,CkksCombined,1,What medications treat depression?,1.0,1.0,1.0
+4,E,CkksCombined,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+4,E,CkksCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+4,E,CkksCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+4,E,CkksCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+4,E,CkksCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+4,E,CkksCombined,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+4,E,CkksCombined,5,How is hypertension treated?,0.8,0.9984,1.0
+4,E,CkksCombined,5,What causes heart failure?,1.0,0.9997,0.8
+4,E,CkksCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+4,E,CkksCombined,5,What medications treat depression?,1.0,1.0,1.0
+4,E,CkksCombined,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+4,E,CkksCombined,5,What are risk factors for stroke?,1.0,0.9996,0.8
+4,E,CkksCombined,5,How is asthma managed long-term?,1.0,0.9999,0.8
+4,E,CkksCombined,5,What are signs of kidney disease?,0.8,0.9969,0.8
+4,E,CkksCombined,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+4,E,CkksCombined,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+4,E,CkksCombined,10,How is hypertension treated?,0.9,0.9995,0.8667
+4,E,CkksCombined,10,What causes heart failure?,0.9,0.9968,0.9111
+4,E,CkksCombined,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+4,E,CkksCombined,10,What medications treat depression?,0.9,0.9957,0.9556
+4,E,CkksCombined,10,How does Alzheimer's disease progress?,0.9,0.9934,0.6889
+4,E,CkksCombined,10,What are risk factors for stroke?,0.6,0.9931,0.6
+4,E,CkksCombined,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+4,E,CkksCombined,10,What are signs of kidney disease?,0.8,0.9928,0.7778
+4,E,CkksCombined,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+4,E,CkksCombined,20,What are the symptoms of type 2 diabetes?,0.8,0.9904,0.6842
+4,E,CkksCombined,20,How is hypertension treated?,0.8,0.9934,0.8737
+4,E,CkksCombined,20,What causes heart failure?,0.95,0.9978,0.8
+4,E,CkksCombined,20,Describe the symptoms of lupus,0.85,0.9978,0.8632
+4,E,CkksCombined,20,What medications treat depression?,0.8,0.9876,0.7789
+4,E,CkksCombined,20,How does Alzheimer's disease progress?,0.9,0.9936,0.8
+4,E,CkksCombined,20,What are risk factors for stroke?,0.85,0.9943,0.5053
+4,E,CkksCombined,20,How is asthma managed long-term?,0.95,0.9929,0.7579
+4,E,CkksCombined,20,What are signs of kidney disease?,0.95,0.9981,0.8105
+4,E,CkksCombined,20,Describe rheumatoid arthritis treatment,0.85,0.9954,0.8316
+4,E,CkksCombined,50,What are the symptoms of type 2 diabetes?,0.84,0.9037,0.5679
+4,E,CkksCombined,50,How is hypertension treated?,0.92,0.9555,0.7546
+4,E,CkksCombined,50,What causes heart failure?,0.94,0.9691,0.8723
+4,E,CkksCombined,50,Describe the symptoms of lupus,0.7,0.8176,0.7748
+4,E,CkksCombined,50,What medications treat depression?,0.8,0.8821,0.6923
+4,E,CkksCombined,50,How does Alzheimer's disease progress?,0.84,0.9242,0.7909
+4,E,CkksCombined,50,What are risk factors for stroke?,0.88,0.9255,0.6977
+4,E,CkksCombined,50,How is asthma managed long-term?,0.76,0.8703,0.6814
+4,E,CkksCombined,50,What are signs of kidney disease?,0.86,0.9198,0.7652
+4,E,CkksCombined,50,Describe rheumatoid arthritis treatment,0.9,0.945,0.7414
+5,E,Scrambling,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Scrambling,1,How is hypertension treated?,1.0,1.0,1.0
+5,E,Scrambling,1,What causes heart failure?,1.0,1.0,1.0
+5,E,Scrambling,1,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Scrambling,1,What medications treat depression?,1.0,1.0,1.0
+5,E,Scrambling,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Scrambling,1,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Scrambling,1,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Scrambling,1,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Scrambling,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Scrambling,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Scrambling,5,How is hypertension treated?,1.0,1.0,1.0
+5,E,Scrambling,5,What causes heart failure?,1.0,1.0,1.0
+5,E,Scrambling,5,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Scrambling,5,What medications treat depression?,1.0,1.0,1.0
+5,E,Scrambling,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Scrambling,5,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Scrambling,5,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Scrambling,5,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Scrambling,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Scrambling,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Scrambling,10,How is hypertension treated?,1.0,1.0,1.0
+5,E,Scrambling,10,What causes heart failure?,1.0,1.0,1.0
+5,E,Scrambling,10,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Scrambling,10,What medications treat depression?,1.0,1.0,1.0
+5,E,Scrambling,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Scrambling,10,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Scrambling,10,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Scrambling,10,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Scrambling,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Scrambling,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Scrambling,20,How is hypertension treated?,1.0,1.0,1.0
+5,E,Scrambling,20,What causes heart failure?,1.0,1.0,1.0
+5,E,Scrambling,20,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Scrambling,20,What medications treat depression?,1.0,1.0,1.0
+5,E,Scrambling,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Scrambling,20,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Scrambling,20,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Scrambling,20,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Scrambling,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Scrambling,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Scrambling,50,How is hypertension treated?,1.0,1.0,1.0
+5,E,Scrambling,50,What causes heart failure?,1.0,1.0,1.0
+5,E,Scrambling,50,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Scrambling,50,What medications treat depression?,1.0,1.0,1.0
+5,E,Scrambling,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Scrambling,50,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Scrambling,50,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Scrambling,50,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Scrambling,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Noise,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Noise,1,How is hypertension treated?,1.0,1.0,1.0
+5,E,Noise,1,What causes heart failure?,1.0,1.0,1.0
+5,E,Noise,1,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Noise,1,What medications treat depression?,1.0,1.0,1.0
+5,E,Noise,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Noise,1,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Noise,1,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Noise,1,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Noise,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Noise,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Noise,5,How is hypertension treated?,1.0,1.0,1.0
+5,E,Noise,5,What causes heart failure?,1.0,1.0,1.0
+5,E,Noise,5,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Noise,5,What medications treat depression?,1.0,1.0,1.0
+5,E,Noise,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Noise,5,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Noise,5,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Noise,5,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Noise,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Noise,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Noise,10,How is hypertension treated?,1.0,1.0,1.0
+5,E,Noise,10,What causes heart failure?,1.0,1.0,1.0
+5,E,Noise,10,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Noise,10,What medications treat depression?,1.0,1.0,1.0
+5,E,Noise,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+5,E,Noise,10,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Noise,10,How is asthma managed long-term?,1.0,1.0,0.9556
+5,E,Noise,10,What are signs of kidney disease?,1.0,1.0,0.9111
+5,E,Noise,10,Describe rheumatoid arthritis treatment,1.0,1.0,0.9556
+5,E,Noise,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Noise,20,How is hypertension treated?,0.95,1.0,0.9684
+5,E,Noise,20,What causes heart failure?,1.0,1.0,1.0
+5,E,Noise,20,Describe the symptoms of lupus,0.95,0.9998,0.9895
+5,E,Noise,20,What medications treat depression?,1.0,1.0,0.9789
+5,E,Noise,20,How does Alzheimer's disease progress?,0.95,0.9999,0.9895
+5,E,Noise,20,What are risk factors for stroke?,1.0,1.0,0.9474
+5,E,Noise,20,How is asthma managed long-term?,1.0,1.0,0.9789
+5,E,Noise,20,What are signs of kidney disease?,1.0,1.0,0.9684
+5,E,Noise,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9789
+5,E,Noise,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9641
+5,E,Noise,50,How is hypertension treated?,0.98,0.9898,0.9762
+5,E,Noise,50,What causes heart failure?,1.0,1.0,0.9886
+5,E,Noise,50,Describe the symptoms of lupus,0.98,0.9892,0.9609
+5,E,Noise,50,What medications treat depression?,1.0,1.0,0.9853
+5,E,Noise,50,How does Alzheimer's disease progress?,1.0,1.0,0.9837
+5,E,Noise,50,What are risk factors for stroke?,0.98,0.9885,0.9779
+5,E,Noise,50,How is asthma managed long-term?,1.0,1.0,0.9755
+5,E,Noise,50,What are signs of kidney disease?,0.96,0.9792,0.9805
+5,E,Noise,50,Describe rheumatoid arthritis treatment,1.0,1.0,0.9771
+5,E,Combined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Combined,1,How is hypertension treated?,1.0,1.0,1.0
+5,E,Combined,1,What causes heart failure?,1.0,1.0,1.0
+5,E,Combined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Combined,1,What medications treat depression?,1.0,1.0,1.0
+5,E,Combined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Combined,1,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Combined,1,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Combined,1,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Combined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Combined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Combined,5,How is hypertension treated?,1.0,1.0,1.0
+5,E,Combined,5,What causes heart failure?,1.0,1.0,1.0
+5,E,Combined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Combined,5,What medications treat depression?,1.0,1.0,1.0
+5,E,Combined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Combined,5,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Combined,5,How is asthma managed long-term?,1.0,0.9999,0.8
+5,E,Combined,5,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Combined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Combined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Combined,10,How is hypertension treated?,1.0,1.0,1.0
+5,E,Combined,10,What causes heart failure?,1.0,1.0,1.0
+5,E,Combined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Combined,10,What medications treat depression?,1.0,1.0,1.0
+5,E,Combined,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+5,E,Combined,10,What are risk factors for stroke?,1.0,1.0,0.9556
+5,E,Combined,10,How is asthma managed long-term?,1.0,1.0,0.9556
+5,E,Combined,10,What are signs of kidney disease?,0.9,0.9994,0.9556
+5,E,Combined,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Combined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9789
+5,E,Combined,20,How is hypertension treated?,1.0,1.0,0.9368
+5,E,Combined,20,What causes heart failure?,1.0,1.0,1.0
+5,E,Combined,20,Describe the symptoms of lupus,0.95,1.0,1.0
+5,E,Combined,20,What medications treat depression?,1.0,1.0,0.9789
+5,E,Combined,20,How does Alzheimer's disease progress?,1.0,1.0,0.9895
+5,E,Combined,20,What are risk factors for stroke?,0.95,0.9999,0.9579
+5,E,Combined,20,How is asthma managed long-term?,1.0,1.0,0.9789
+5,E,Combined,20,What are signs of kidney disease?,0.95,0.9999,0.9684
+5,E,Combined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9789
+5,E,Combined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.951
+5,E,Combined,50,How is hypertension treated?,0.98,0.9898,0.9728
+5,E,Combined,50,What causes heart failure?,0.98,0.9909,0.9881
+5,E,Combined,50,Describe the symptoms of lupus,0.96,0.9785,0.9681
+5,E,Combined,50,What medications treat depression?,1.0,1.0,0.9853
+5,E,Combined,50,How does Alzheimer's disease progress?,1.0,1.0,0.9837
+5,E,Combined,50,What are risk factors for stroke?,0.98,0.9886,0.9711
+5,E,Combined,50,How is asthma managed long-term?,0.96,0.9813,0.9805
+5,E,Combined,50,What are signs of kidney disease?,0.98,0.9896,0.9711
+5,E,Combined,50,Describe rheumatoid arthritis treatment,1.0,1.0,0.9722
+5,E,Rome,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Rome,1,How is hypertension treated?,1.0,1.0,1.0
+5,E,Rome,1,What causes heart failure?,1.0,1.0,1.0
+5,E,Rome,1,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Rome,1,What medications treat depression?,1.0,1.0,1.0
+5,E,Rome,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Rome,1,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Rome,1,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Rome,1,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Rome,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Rome,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Rome,5,How is hypertension treated?,1.0,1.0,1.0
+5,E,Rome,5,What causes heart failure?,1.0,1.0,1.0
+5,E,Rome,5,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Rome,5,What medications treat depression?,1.0,1.0,1.0
+5,E,Rome,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Rome,5,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Rome,5,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Rome,5,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Rome,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Rome,10,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Rome,10,How is hypertension treated?,1.0,1.0,1.0
+5,E,Rome,10,What causes heart failure?,1.0,1.0,1.0
+5,E,Rome,10,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Rome,10,What medications treat depression?,1.0,1.0,1.0
+5,E,Rome,10,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Rome,10,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Rome,10,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Rome,10,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Rome,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Rome,20,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Rome,20,How is hypertension treated?,1.0,1.0,1.0
+5,E,Rome,20,What causes heart failure?,1.0,1.0,1.0
+5,E,Rome,20,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Rome,20,What medications treat depression?,1.0,1.0,1.0
+5,E,Rome,20,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Rome,20,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Rome,20,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Rome,20,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Rome,20,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Rome,50,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Rome,50,How is hypertension treated?,1.0,1.0,1.0
+5,E,Rome,50,What causes heart failure?,1.0,1.0,1.0
+5,E,Rome,50,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Rome,50,What medications treat depression?,1.0,1.0,1.0
+5,E,Rome,50,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,Rome,50,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Rome,50,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Rome,50,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Rome,50,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,RomeCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,RomeCombined,1,How is hypertension treated?,1.0,1.0,1.0
+5,E,RomeCombined,1,What causes heart failure?,1.0,1.0,1.0
+5,E,RomeCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,RomeCombined,1,What medications treat depression?,1.0,1.0,1.0
+5,E,RomeCombined,1,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,RomeCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,RomeCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,RomeCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,RomeCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,RomeCombined,5,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,RomeCombined,5,How is hypertension treated?,1.0,1.0,1.0
+5,E,RomeCombined,5,What causes heart failure?,1.0,1.0,1.0
+5,E,RomeCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,RomeCombined,5,What medications treat depression?,1.0,1.0,1.0
+5,E,RomeCombined,5,How does Alzheimer's disease progress?,1.0,1.0,1.0
+5,E,RomeCombined,5,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,RomeCombined,5,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,RomeCombined,5,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,RomeCombined,5,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,RomeCombined,10,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9556
+5,E,RomeCombined,10,How is hypertension treated?,0.9,0.9998,1.0
+5,E,RomeCombined,10,What causes heart failure?,1.0,1.0,1.0
+5,E,RomeCombined,10,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,RomeCombined,10,What medications treat depression?,1.0,1.0,1.0
+5,E,RomeCombined,10,How does Alzheimer's disease progress?,0.9,1.0,1.0
+5,E,RomeCombined,10,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,RomeCombined,10,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,RomeCombined,10,What are signs of kidney disease?,1.0,1.0,0.9556
+5,E,RomeCombined,10,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,RomeCombined,20,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9684
+5,E,RomeCombined,20,How is hypertension treated?,1.0,1.0,0.9579
+5,E,RomeCombined,20,What causes heart failure?,1.0,1.0,1.0
+5,E,RomeCombined,20,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,RomeCombined,20,What medications treat depression?,1.0,1.0,1.0
+5,E,RomeCombined,20,How does Alzheimer's disease progress?,1.0,1.0,0.9895
+5,E,RomeCombined,20,What are risk factors for stroke?,0.95,0.9998,0.9474
+5,E,RomeCombined,20,How is asthma managed long-term?,1.0,1.0,0.9895
+5,E,RomeCombined,20,What are signs of kidney disease?,0.95,0.9999,0.9895
+5,E,RomeCombined,20,Describe rheumatoid arthritis treatment,1.0,1.0,0.9895
+5,E,RomeCombined,50,What are the symptoms of type 2 diabetes?,1.0,1.0,0.9755
+5,E,RomeCombined,50,How is hypertension treated?,0.98,0.9898,0.9796
+5,E,RomeCombined,50,What causes heart failure?,1.0,1.0,0.9886
+5,E,RomeCombined,50,Describe the symptoms of lupus,0.98,0.9893,0.9796
+5,E,RomeCombined,50,What medications treat depression?,0.98,0.9895,0.9796
+5,E,RomeCombined,50,How does Alzheimer's disease progress?,1.0,1.0,0.9869
+5,E,RomeCombined,50,What are risk factors for stroke?,1.0,1.0,0.9771
+5,E,RomeCombined,50,How is asthma managed long-term?,0.98,0.9907,0.983
+5,E,RomeCombined,50,What are signs of kidney disease?,0.96,0.9792,0.9894
+5,E,RomeCombined,50,Describe rheumatoid arthritis treatment,0.98,0.9903,0.9813
+5,E,Ckks,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,Ckks,1,How is hypertension treated?,1.0,1.0,1.0
+5,E,Ckks,1,What causes heart failure?,1.0,1.0,1.0
+5,E,Ckks,1,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Ckks,1,What medications treat depression?,1.0,1.0,1.0
+5,E,Ckks,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+5,E,Ckks,1,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,Ckks,1,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,Ckks,1,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,Ckks,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,Ckks,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+5,E,Ckks,5,How is hypertension treated?,0.8,0.9984,1.0
+5,E,Ckks,5,What causes heart failure?,1.0,0.9997,0.8
+5,E,Ckks,5,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,Ckks,5,What medications treat depression?,1.0,1.0,1.0
+5,E,Ckks,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+5,E,Ckks,5,What are risk factors for stroke?,0.8,0.9887,1.0
+5,E,Ckks,5,How is asthma managed long-term?,1.0,0.9999,0.8
+5,E,Ckks,5,What are signs of kidney disease?,0.8,0.9969,0.8
+5,E,Ckks,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+5,E,Ckks,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+5,E,Ckks,10,How is hypertension treated?,0.9,0.9995,0.8667
+5,E,Ckks,10,What causes heart failure?,0.9,0.9968,0.9111
+5,E,Ckks,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+5,E,Ckks,10,What medications treat depression?,0.9,0.9957,0.9556
+5,E,Ckks,10,How does Alzheimer's disease progress?,0.9,0.9937,0.7333
+5,E,Ckks,10,What are risk factors for stroke?,0.6,0.9925,0.5556
+5,E,Ckks,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+5,E,Ckks,10,What are signs of kidney disease?,0.9,0.9986,0.7778
+5,E,Ckks,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+5,E,Ckks,20,What are the symptoms of type 2 diabetes?,0.8,0.9905,0.6947
+5,E,Ckks,20,How is hypertension treated?,0.8,0.9934,0.8737
+5,E,Ckks,20,What causes heart failure?,0.95,0.9978,0.8
+5,E,Ckks,20,Describe the symptoms of lupus,0.85,0.9978,0.8737
+5,E,Ckks,20,What medications treat depression?,0.8,0.9876,0.7789
+5,E,Ckks,20,How does Alzheimer's disease progress?,0.9,0.9939,0.8105
+5,E,Ckks,20,What are risk factors for stroke?,0.85,0.994,0.5053
+5,E,Ckks,20,How is asthma managed long-term?,0.95,0.9929,0.7474
+5,E,Ckks,20,What are signs of kidney disease?,0.95,0.9983,0.8211
+5,E,Ckks,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8632
+5,E,Ckks,50,What are the symptoms of type 2 diabetes?,0.84,0.9038,0.561
+5,E,Ckks,50,How is hypertension treated?,0.92,0.9554,0.7604
+5,E,Ckks,50,What causes heart failure?,0.94,0.9692,0.8742
+5,E,Ckks,50,Describe the symptoms of lupus,0.72,0.8295,0.7492
+5,E,Ckks,50,What medications treat depression?,0.8,0.8821,0.6974
+5,E,Ckks,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7956
+5,E,Ckks,50,What are risk factors for stroke?,0.9,0.9385,0.6586
+5,E,Ckks,50,How is asthma managed long-term?,0.76,0.8704,0.6785
+5,E,Ckks,50,What are signs of kidney disease?,0.84,0.9087,0.7584
+5,E,Ckks,50,Describe rheumatoid arthritis treatment,0.9,0.945,0.7455
+5,E,CkksCombined,1,What are the symptoms of type 2 diabetes?,1.0,1.0,1.0
+5,E,CkksCombined,1,How is hypertension treated?,1.0,1.0,1.0
+5,E,CkksCombined,1,What causes heart failure?,1.0,1.0,1.0
+5,E,CkksCombined,1,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,CkksCombined,1,What medications treat depression?,1.0,1.0,1.0
+5,E,CkksCombined,1,How does Alzheimer's disease progress?,0.0,0.9754,1.0
+5,E,CkksCombined,1,What are risk factors for stroke?,1.0,1.0,1.0
+5,E,CkksCombined,1,How is asthma managed long-term?,1.0,1.0,1.0
+5,E,CkksCombined,1,What are signs of kidney disease?,1.0,1.0,1.0
+5,E,CkksCombined,1,Describe rheumatoid arthritis treatment,1.0,1.0,1.0
+5,E,CkksCombined,5,What are the symptoms of type 2 diabetes?,0.8,0.9994,1.0
+5,E,CkksCombined,5,How is hypertension treated?,0.8,0.9984,1.0
+5,E,CkksCombined,5,What causes heart failure?,1.0,0.9997,0.8
+5,E,CkksCombined,5,Describe the symptoms of lupus,1.0,1.0,1.0
+5,E,CkksCombined,5,What medications treat depression?,1.0,1.0,1.0
+5,E,CkksCombined,5,How does Alzheimer's disease progress?,0.8,0.9921,0.6
+5,E,CkksCombined,5,What are risk factors for stroke?,0.8,0.9887,1.0
+5,E,CkksCombined,5,How is asthma managed long-term?,1.0,0.9999,0.8
+5,E,CkksCombined,5,What are signs of kidney disease?,0.8,0.9977,1.0
+5,E,CkksCombined,5,Describe rheumatoid arthritis treatment,1.0,0.9996,0.8
+5,E,CkksCombined,10,What are the symptoms of type 2 diabetes?,0.8,0.9882,0.6444
+5,E,CkksCombined,10,How is hypertension treated?,0.9,0.9995,0.8667
+5,E,CkksCombined,10,What causes heart failure?,0.9,0.9968,0.9111
+5,E,CkksCombined,10,Describe the symptoms of lupus,1.0,0.9999,0.9111
+5,E,CkksCombined,10,What medications treat depression?,0.9,0.9973,0.9556
+5,E,CkksCombined,10,How does Alzheimer's disease progress?,0.9,0.9934,0.6889
+5,E,CkksCombined,10,What are risk factors for stroke?,0.6,0.9923,0.5556
+5,E,CkksCombined,10,How is asthma managed long-term?,1.0,0.9995,0.8222
+5,E,CkksCombined,10,What are signs of kidney disease?,0.9,0.9992,0.8222
+5,E,CkksCombined,10,Describe rheumatoid arthritis treatment,0.9,0.9965,0.9111
+5,E,CkksCombined,20,What are the symptoms of type 2 diabetes?,0.8,0.9905,0.6947
+5,E,CkksCombined,20,How is hypertension treated?,0.8,0.9935,0.8842
+5,E,CkksCombined,20,What causes heart failure?,0.95,0.9977,0.7789
+5,E,CkksCombined,20,Describe the symptoms of lupus,0.85,0.9978,0.8632
+5,E,CkksCombined,20,What medications treat depression?,0.8,0.9878,0.8
+5,E,CkksCombined,20,How does Alzheimer's disease progress?,0.9,0.9936,0.7895
+5,E,CkksCombined,20,What are risk factors for stroke?,0.85,0.9939,0.4842
+5,E,CkksCombined,20,How is asthma managed long-term?,0.95,0.9929,0.7684
+5,E,CkksCombined,20,What are signs of kidney disease?,0.95,0.9988,0.8316
+5,E,CkksCombined,20,Describe rheumatoid arthritis treatment,0.85,0.9955,0.8632
+5,E,CkksCombined,50,What are the symptoms of type 2 diabetes?,0.86,0.9153,0.5482
+5,E,CkksCombined,50,How is hypertension treated?,0.92,0.9555,0.7739
+5,E,CkksCombined,50,What causes heart failure?,0.94,0.9692,0.8705
+5,E,CkksCombined,50,Describe the symptoms of lupus,0.72,0.8301,0.7397
+5,E,CkksCombined,50,What medications treat depression?,0.8,0.8821,0.7026
+5,E,CkksCombined,50,How does Alzheimer's disease progress?,0.84,0.9244,0.7863
+5,E,CkksCombined,50,What are risk factors for stroke?,0.88,0.9272,0.649
+5,E,CkksCombined,50,How is asthma managed long-term?,0.76,0.8706,0.6842
+5,E,CkksCombined,50,What are signs of kidney disease?,0.86,0.9198,0.7586
+5,E,CkksCombined,50,Describe rheumatoid arthritis treatment,0.9,0.945,0.7394

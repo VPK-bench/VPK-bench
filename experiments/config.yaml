@@ -1,0 +1,112 @@
+# NeurIPS Experiment Configuration
+# Each experiment maps to a figure or table in the paper.
+
+api_base: "http://127.0.0.1:3000"
+trials_per_config: 30        # queries per configuration (for statistical significance)
+top_k_default: 10
+n_trials: 10                 # independent key-generation repetitions (all experiments)
+
+# ── Experiment A: Algorithm Comparison (primary table) ───────────────────────
+exp_A:
+  description: "Compare all algorithms — fixed repo=1000, shards=3, K=10"
+  top_k: 10
+  algorithms:
+    - { name: Scrambling,    noise_min: 0.9, noise_max: 1.1, padding_ratio: 1.0 }
+    - { name: Noise,         noise_min: 0.9, noise_max: 1.1, padding_ratio: 1.0 }
+    - { name: Combined,      noise_min: 0.9, noise_max: 1.1, padding_ratio: 1.0 }
+    - { name: Rome,          noise_min: 1.0, noise_max: 1.0, padding_ratio: 1.5 }
+    - { name: RomeCombined,  noise_min: 0.9, noise_max: 1.1, padding_ratio: 1.5 }
+    - { name: Romm,          noise_min: 1.0, noise_max: 1.0, padding_ratio: 1.0 }
+    - { name: RommCombined,  noise_min: 0.9, noise_max: 1.1, padding_ratio: 1.0 }
+    - { name: Diehard,        noise_min: 1.0, noise_max: 1.0, padding_ratio: 1.5 }
+    - { name: DiehardCombined, noise_min: 0.9, noise_max: 1.1, padding_ratio: 1.5 }
+    - { name: Ckks,          noise_min: 1.0, noise_max: 1.0, padding_ratio: 1.5 }
+    - { name: CkksCombined,  noise_min: 0.9, noise_max: 1.1, padding_ratio: 1.5 }
+
+# ── Experiment B: Repo Size Scaling ─────────────────────────────────────────
+exp_B:
+  description: "Query latency and recall vs. corpus size"
+  top_k: 10
+  algorithms: [Scrambling, Rome, Ckks]
+  repo_sizes: [100, 500, 1000, 5000, 10000]
+
+# ── Experiment C: Shard Scaling ──────────────────────────────────────────────
+exp_C:
+  description: "Recall should be stable; latency may change with shard count"
+  top_k: 10
+  algorithms: [Rome, Ckks, Combined]
+  shard_counts: [1, 2, 3, 5, 10]
+
+# ── Experiment D: Noise-Security Tradeoff (key figure) ──────────────────────
+exp_D:
+  description: "Pareto curve of rank preservation vs. encryption strength"
+  top_k: 10
+  algorithms: [Noise, Combined, RomeCombined, RommCombined, DiehardCombined, CkksCombined]
+  noise_levels:
+    - { noise_min: 0.99, noise_max: 1.01, label: "1%"  }
+    - { noise_min: 0.95, noise_max: 1.05, label: "5%"  }
+    - { noise_min: 0.90, noise_max: 1.10, label: "10%" }
+    - { noise_min: 0.80, noise_max: 1.20, label: "20%" }
+    - { noise_min: 0.70, noise_max: 1.30, label: "30%" }
+    - { noise_min: 0.50, noise_max: 1.50, label: "50%" }
+    - { noise_min: 0.30, noise_max: 1.70, label: "70%" }
+
+# ── Experiment E: TopK Sensitivity ───────────────────────────────────────────
+exp_E:
+  description: "Recall@K and nDCG@K across all algorithms as K varies"
+  algorithms: [Scrambling, Noise, Combined, Rome, RomeCombined, Romm, RommCombined, Diehard, DiehardCombined, Ckks, CkksCombined]
+  k_values: [1, 5, 10, 20, 50]
+
+# ── Experiment F: Padding Ratio (ROME/CKKS only) ─────────────────────────────
+exp_F:
+  description: "Encrypt latency, space overhead, and recall vs. padding ratio"
+  top_k: 10
+  algorithms: [Rome, Diehard, Ckks]
+  padding_ratios: [1.25, 1.5, 2.0]
+
+# ── Experiment G: Frozen DS — clean noise sweep ───────────────────────────────
+# Within each trial the DS matrix is held constant while noise varies.
+# Eliminates the confound in Exp D where each noise level draws a new DS matrix.
+exp_G:
+  description: "Noise sweep for Combined with DS matrix frozen within each trial"
+  top_k: 10
+  noise_levels:
+    - { noise_min: 1.00, noise_max: 1.00, label: "0%"  }
+    - { noise_min: 0.99, noise_max: 1.01, label: "1%"  }
+    - { noise_min: 0.95, noise_max: 1.05, label: "5%"  }
+    - { noise_min: 0.90, noise_max: 1.10, label: "10%" }
+    - { noise_min: 0.80, noise_max: 1.20, label: "20%" }
+    - { noise_min: 0.70, noise_max: 1.30, label: "30%" }
+    - { noise_min: 0.50, noise_max: 1.50, label: "50%" }
+    - { noise_min: 0.30, noise_max: 1.70, label: "70%" }
+
+# ── Experiment H: DS divergence as covariate ─────────────────────────────────
+# Measures DS quality (recall at noise=0%) before the sweep so trial-level
+# DS divergence can be correlated with the recall trajectory across noise.
+exp_H:
+  description: "Per-trial DS quality score as covariate for noise sweep"
+  top_k: 10
+  noise_levels:
+    - { noise_min: 1.00, noise_max: 1.00, label: "0%"  }
+    - { noise_min: 0.99, noise_max: 1.01, label: "1%"  }
+    - { noise_min: 0.95, noise_max: 1.05, label: "5%"  }
+    - { noise_min: 0.90, noise_max: 1.10, label: "10%" }
+    - { noise_min: 0.80, noise_max: 1.20, label: "20%" }
+    - { noise_min: 0.70, noise_max: 1.30, label: "30%" }
+    - { noise_min: 0.50, noise_max: 1.50, label: "50%" }
+    - { noise_min: 0.30, noise_max: 1.70, label: "70%" }
+
+# ── Experiment I: Corpus size × noise tradeoff ────────────────────────────────
+# Run at each corpus size to build the full picture. The runner records the
+# live corpus_size from /api/health so results from multiple runs accumulate
+# correctly in one CSV (append-only).
+exp_I:
+  description: "Combined noise tradeoff at varying corpus sizes (append-only)"
+  top_k: 10
+  noise_levels:
+    - { noise_min: 1.00, noise_max: 1.00, label: "0%"  }
+    - { noise_min: 0.99, noise_max: 1.01, label: "1%"  }
+    - { noise_min: 0.90, noise_max: 1.10, label: "10%" }
+    - { noise_min: 0.70, noise_max: 1.30, label: "30%" }
+    - { noise_min: 0.50, noise_max: 1.50, label: "50%" }
+    - { noise_min: 0.30, noise_max: 1.70, label: "70%" }

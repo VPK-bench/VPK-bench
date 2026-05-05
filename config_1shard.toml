@@ -1,0 +1,26 @@
+[database]
+connection_string = "postgresql://postgres:test@localhost/vpk_test"
+max_connections = 5
+min_connections = 1
+
+[vectordb]
+endpoint = "http://localhost:6333"
+db_type = "qdrant"
+collection_name = "vpk_test"
+use_tls = false
+
+[crypto]
+vector_dim = 384
+padding_dim = 128
+auto_rotate_keys = false
+rotation_interval_days = 90
+
+[api]
+bind_address = "127.0.0.1"
+port = 3000
+enable_cors = true
+api_base = "http://127.0.0.1:3000"
+
+[[shards]]
+shard_id = 1
+name = "eve-1"
