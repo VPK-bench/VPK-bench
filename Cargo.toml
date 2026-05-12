@@ -2,6 +2,9 @@
 name = "vpkbench"
 version = "0.1.0"
 edition = "2021"
+
+[lib]
+name = "phe"
 description = "VPKbench: A benchmark suite for privacy-preserving vector search under partial homomorphic encryption"
 license = "MIT"
 keywords = ["cryptography", "homomorphic-encryption", "vector-search", "privacy", "benchmark"]
