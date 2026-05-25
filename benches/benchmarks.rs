@@ -1,4 +1,4 @@
-//! Performance benchmarks for NeurIPS experiments
+//! Performance benchmarks for experiments
 //!
 //! Run with: `cargo bench`
 //! Results are written to `target/criterion/`.
